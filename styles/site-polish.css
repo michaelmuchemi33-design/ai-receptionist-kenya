@@ -206,3 +206,29 @@ a[href*="contact.html#appointment"]{text-decoration:none!important}
  .framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]),
  .framer-14mx2je .framer-3zvjmt{grid-template-columns:minmax(0,1fr)!important}
 }
+
+
+/* Second industry row and benefit cards share a Framer container; separate their grids. */
+.framer-ax4wqm{display:block!important;width:min(1120px,calc(100% - 40px))!important;max-width:1120px!important;margin-inline:auto!important}
+.framer-ax4wqm .framer-3isaxa{display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr))!important;gap:16px!important;width:100%!important;max-width:100%!important;align-items:stretch!important}
+.framer-ax4wqm .framer-3isaxa>.framer-1juld66-container,
+.framer-ax4wqm .framer-3isaxa>.ssr-variant{min-width:0!important;width:100%!important;max-width:none!important;overflow:hidden!important}
+.framer-ax4wqm .framer-3isaxa>.framer-lhpwam,
+.framer-ax4wqm .framer-3isaxa>.ssr-variant:has([data-framer-name="THE BUSINESS ADVANTAGE"]){grid-column:1/-1!important}
+.framer-ax4wqm .framer-3isaxa>.framer-lhpwam{margin-top:26px!important}
+.framer-ax4wqm .framer-14mx2je{display:block!important;width:100%!important;max-width:100%!important;min-width:0!important;margin:28px auto 0!important}
+.framer-ax4wqm .framer-3zvjmt{display:grid!important;width:100%!important;max-width:1120px!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:18px!important;margin:24px auto 0!important}
+.framer-ax4wqm .framer-3zvjmt>div{min-width:0!important;width:100%!important;max-width:none!important;overflow:visible!important}
+@media(max-width:1050px){
+ .framer-ax4wqm .framer-3isaxa{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+ .framer-ax4wqm .framer-3zvjmt{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+}
+@media(max-width:760px){
+ .framer-ax4wqm{width:calc(100% - 32px)!important}
+ .framer-ax4wqm .framer-3isaxa{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px!important}
+ .framer-ax4wqm .framer-3zvjmt{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px!important}
+}
+@media(max-width:420px){
+ .framer-ax4wqm .framer-3isaxa,
+ .framer-ax4wqm .framer-3zvjmt{grid-template-columns:minmax(0,1fr)!important}
+}
