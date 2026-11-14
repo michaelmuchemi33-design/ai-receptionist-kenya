@@ -284,3 +284,13 @@ a[href*="contact.html#appointment"]{text-decoration:none!important}
 .framer-16g4u8s .framer-xsaibk{position:relative!important;inset:auto!important;min-height:0!important;overflow:hidden!important}
 .framer-1se20gt .framer-l0s3hi{position:relative!important;inset:auto!important;width:100%!important;max-width:100%!important}
 .framer-16g4u8s .framer-atu078{position:absolute!important;inset:0!important;width:100%!important;height:100%!important}
+
+
+/* Make the primary Get Started action visibly clickable and consistent with the orange brand. */
+a[href*="contact.html#appointment"]{box-sizing:border-box!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;gap:11px!important;min-height:46px!important;padding:7px 9px 7px 18px!important;border:1px solid #f07832!important;border-radius:999px!important;background:#f07832!important;color:#171717!important;font-weight:750!important;line-height:1.1!important;box-shadow:0 5px 16px rgba(240,120,50,.16)!important}
+a[href*="contact.html#appointment"] [data-framer-name="Label"]{color:#171717!important;font-weight:750!important}
+a[href*="contact.html#appointment"] [data-framer-name="Label"] p,
+a[href*="contact.html#appointment"] [data-framer-name="Label"] span{color:#171717!important}
+a[href*="contact.html#appointment"] [data-framer-name="Circle"]{display:flex!important;flex:0 0 31px!important;width:31px!important;height:31px!important;align-items:center!important;justify-content:center!important;background:#171717!important}
+a[href*="contact.html#appointment"] [data-framer-name="Plus"]{color:#f07832!important}
+a[href*="contact.html#appointment"]:hover{background:#ff8a43!important;transform:translateY(-1px)!important}
