@@ -160,3 +160,49 @@ a[href*="contact.html#appointment"]{text-decoration:none!important}
  .framer-14mx2je .framer-3zvjmt,
  .framer-185egxy .framer-kl72hc{grid-template-columns:minmax(0,1fr)!important}
 }
+
+
+/* Correct nested Framer wrappers measured in production after the first pass. */
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS{box-sizing:border-box!important;display:block!important;position:relative!important;width:100%!important;max-width:100%!important;min-width:0!important;flex:0 0 100%!important;overflow:visible!important}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>[data-framer-name="Pricing Wrapper"]{width:min(1120px,calc(100% - 48px))!important;max-width:1120px!important;grid-template-columns:repeat(3,minmax(0,1fr))!important}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>[data-framer-name="Pricing Wrapper"]>div{min-width:0!important}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>[data-framer-name="Label"]{margin-top:42px!important}
+
+/* The second set of five industry cards was inside a two-column wrapper with an empty column. */
+.framer-ax4wqm{display:block!important;width:min(1120px,calc(100% - 40px))!important;max-width:1120px!important;margin-inline:auto!important;min-width:0!important}
+.framer-ax4wqm .framer-14mx2je{display:block!important;width:100%!important;max-width:100%!important;min-width:0!important;flex:0 0 100%!important}
+.framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]){display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr))!important;gap:16px!important;width:100%!important;max-width:100%!important}
+.framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"])>a{min-width:0!important;width:100%!important;max-width:none!important;overflow:hidden!important}
+.framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]) [data-framer-name="Media"]{height:150px!important;min-height:150px!important}
+.framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]) [data-framer-name="Body"]{padding:16px!important}
+.framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]) h3{font-size:clamp(14px,1.1vw,17px)!important;line-height:1.25!important}
+
+/* Let the six benefits use the full section width rather than one narrow split column. */
+.framer-14mx2je{display:block!important;width:100%!important;max-width:1120px!important;min-width:0!important;margin-inline:auto!important;flex:0 0 100%!important}
+.framer-14mx2je .framer-3zvjmt{width:100%!important;max-width:1120px!important;grid-template-columns:repeat(3,minmax(0,1fr))!important}
+.framer-14mx2je .framer-3zvjmt>div{width:100%!important;max-width:none!important;min-width:0!important}
+
+/* Remove excess reserved height in the hero follow-on trust section. */
+.framer-1se20gt{height:auto!important;min-height:0!important;padding-block:30px!important}
+.framer-1se20gt .framer-tvz5fk{height:auto!important;min-height:0!important;max-height:none!important}
+.framer-1se20gt .framer-1skx1ta,
+.framer-1se20gt .framer-a72bv6{height:auto!important;min-height:0!important}
+.framer-1se20gt .framer-1skx1ta{display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;align-items:center!important;gap:24px!important}
+.framer-1se20gt .framer-1gp37mb{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+.framer-1se20gt .framer-1gp37mb>div{height:auto!important;min-height:0!important}
+@media(max-width:1050px){
+ .framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]){grid-template-columns:repeat(3,minmax(0,1fr))!important}
+ .framer-14mx2je .framer-3zvjmt{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+}
+@media(max-width:760px){
+ .framer-vunw5t .framer-1erld54-container>.framer-ptTdS{padding-inline:0!important}
+ .framer-vunw5t .framer-1erld54-container>.framer-ptTdS>[data-framer-name="Pricing Wrapper"]{width:calc(100% - 32px)!important;grid-template-columns:minmax(0,1fr)!important}
+ .framer-ax4wqm{width:calc(100% - 32px)!important}
+ .framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]){grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px!important}
+ .framer-14mx2je .framer-3zvjmt{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+ .framer-1se20gt .framer-1skx1ta{grid-template-columns:minmax(0,1fr)!important;gap:14px!important}
+}
+@media(max-width:420px){
+ .framer-ax4wqm .ssr-variant:has(a[data-framer-name="Default"]),
+ .framer-14mx2je .framer-3zvjmt{grid-template-columns:minmax(0,1fr)!important}
+}
