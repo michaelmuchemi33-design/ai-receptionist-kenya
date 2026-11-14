@@ -15,6 +15,8 @@ function newsletters(){document.querySelectorAll('[data-twiga-form="newsletter"]
 function search(){let b=document.querySelector('button[aria-label="Search articles"]'),list=document.querySelector('[data-framer-name="Articles List"]');if(!b||!list||document.querySelector(".twiga-blog-search"))return;let w=document.createElement("div"),i=document.createElement("input"),empty=document.createElement("p");w.className="twiga-blog-search";i.type="search";i.placeholder="Search articles…";i.setAttribute("aria-label","Search articles");w.append(i);list.before(w);empty.className="twiga-search-empty";empty.textContent="No articles match that search.";list.append(empty);b.addEventListener("click",()=>{let open=w.classList.toggle("is-open");b.setAttribute("aria-expanded",String(open));if(open)i.focus();else{i.value="";i.dispatchEvent(new Event("input"))}});i.addEventListener("input",()=>{let n=0,q=i.value.toLowerCase().trim();[...list.children].forEach(c=>{if(c===empty)return;let yes=!q||c.textContent.toLowerCase().includes(q);c.style.display=yes?"":"none";if(yes)n++});empty.style.display=n?"none":"block"})}
 
 function voiceSamples(){
+ const select=document.querySelector('[data-twiga-form="demo"] select[name="preferred_voice"]');
+ if(select){select.innerHTML='<option value="">No preference</option><option value="Sarah">Sarah — warm and reassuring</option><option value="Alice">Alice — clear and professional</option><option value="Bella">Bella — bright and polished</option><option value="Jessica">Jessica — friendly and upbeat</option>';}
  const list=document.querySelector(".framer-kl72hc");
  if(!list||list.dataset.twigaVoiceReady)return;
  list.dataset.twigaVoiceReady="1";
@@ -47,7 +49,6 @@ function voiceSamples(){
    catch(err){button.textContent="▶ Try sample again";button.setAttribute("aria-pressed","false");status(card,"This sample could not play in this browser. Please try another voice.",true)}
   });
   audio.addEventListener("ended",()=>{button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false")});
-  audio.addEventListener("pause",()=>{if(audio.currentTime===0){button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false")}});
   body.append(title,desc,button,audio);
  });
  const section=list.closest('[data-framer-name="Meet Our AI Voices"]')||list.parentElement;
@@ -55,8 +56,6 @@ function voiceSamples(){
  if(heading)heading.textContent="Hear the Available AI Voices";
  const intro=section?.querySelector('[data-framer-name="Intro"] p');
  if(intro)intro.textContent="These are AI voice presets, not members of our team. Play a short sample, then tell us which voice style suits your business.";
- const select=document.querySelector('[data-twiga-form="demo"] select[name="preferred_voice"]');
- if(select){select.innerHTML='<option value="">No preference</option><option value="Sarah">Sarah — warm and reassuring</option><option value="Alice">Alice — clear and professional</option><option value="Bella">Bella — bright and polished</option><option value="Jessica">Jessica — friendly and upbeat</option>';}
 }
-\nfunction init(){menu();anchors();faqs();demo();newsletters();search();voiceSamples()}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
+function init(){menu();anchors();faqs();demo();newsletters();search();voiceSamples()}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
 })();
