@@ -232,3 +232,17 @@ a[href*="contact.html#appointment"]{text-decoration:none!important}
  .framer-ax4wqm .framer-3isaxa,
  .framer-ax4wqm .framer-3zvjmt{grid-template-columns:minmax(0,1fr)!important}
 }
+
+/* Voice cards represent voice presets rather than people and include real audio previews. */
+.framer-185egxy .framer-kl72hc [data-framer-name="Media"]{height:118px!important;min-height:118px!important;display:flex!important;align-items:center!important;justify-content:center!important;background:linear-gradient(135deg,#f7f6f2,#ece9e2)!important}
+.framer-185egxy .framer-kl72hc [data-framer-name="Media"] img{display:none!important}
+.framer-185egxy .framer-kl72hc [data-framer-name="Media"]::after{content:"♫";display:flex;align-items:center;justify-content:center;width:58px;height:58px;border-radius:50%;background:#171717;color:#f07832;font-size:30px;font-weight:700}
+.framer-185egxy .framer-kl72hc .framer-15pj0yu{display:flex!important;flex-direction:column!important;align-items:flex-start!important;gap:10px!important;padding:20px!important}
+.twiga-voice-name{margin:0!important;font-size:22px!important;line-height:1.15!important;letter-spacing:-.03em!important;color:#171717!important}
+.twiga-voice-description{margin:0!important;min-height:68px;color:#5f5d58!important;font-size:14px!important;line-height:1.55!important}
+.twiga-voice-play{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;padding:10px 16px;border:1px solid rgba(240,120,50,.55);border-radius:999px;background:#fff;color:#171717;font:inherit;font-size:13px;font-weight:750;cursor:pointer;transition:background .18s ease,transform .18s ease}
+.twiga-voice-play:hover{background:#f07832;transform:translateY(-1px)}
+.twiga-voice-play:focus-visible{outline:3px solid rgba(240,120,50,.35);outline-offset:3px}
+.twiga-voice-play[aria-pressed="true"]{background:#171717;color:#fff;border-color:#171717}
+.framer-185egxy .framer-kl72hc audio{display:none}
+@media(max-width:760px){.twiga-voice-description{min-height:0}}
