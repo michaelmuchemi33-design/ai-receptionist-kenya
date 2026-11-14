@@ -13,5 +13,50 @@ function faqs(){document.querySelectorAll('[data-framer-name="Accordion"] [data-
 function demo(){let f=document.querySelector('[data-twiga-form="demo"]');if(!f||f.dataset.ready)return;f.dataset.ready="1";let date=f.querySelector('[name="preferred_date"]');if(date)date.min=new Date().toISOString().slice(0,10);f.addEventListener("submit",async e=>{e.preventDefault();if(!f.reportValidity())return;let b=f.querySelector('button[type="submit"]'),old=b.textContent;b.disabled=true;b.textContent="Sending request…";status(f,"Sending your request…");let v=n=>f.querySelector(`[name="${n}"]`)?.value?.trim()||"";try{let r=await post({full_name:v("full_name"),business_name:v("business_name"),email:v("email"),phone:v("phone"),industry:v("industry"),preferred_voice:v("preferred_voice"),preferred_date:v("preferred_date"),preferred_time:v("preferred_time"),message:v("message"),website:v("website")});f.reset();status(f,r.message||"Your demonstration request has been received.")}catch(err){status(f,err.message,true)}finally{b.disabled=false;b.textContent=old}})}
 function newsletters(){document.querySelectorAll('[data-twiga-form="newsletter"]').forEach(f=>{if(f.dataset.ready)return;f.dataset.ready="1";f.addEventListener("submit",async e=>{e.preventDefault();if(!f.reportValidity())return;let email=f.querySelector('input[type="email"]')?.value.trim()||"",b=f.querySelector('button[type="submit"]'),old=b?.textContent||"Subscribe";if(b){b.disabled=true;b.textContent="Subscribing…"}status(f,"Adding your email…");try{let r=await post({type:"newsletter",email,website:f.querySelector('[name="website"]')?.value||""});f.reset();status(f,r.message||"Thanks for subscribing.")}catch(err){status(f,err.message,true)}finally{if(b){b.disabled=false;b.textContent=old}}})})}
 function search(){let b=document.querySelector('button[aria-label="Search articles"]'),list=document.querySelector('[data-framer-name="Articles List"]');if(!b||!list||document.querySelector(".twiga-blog-search"))return;let w=document.createElement("div"),i=document.createElement("input"),empty=document.createElement("p");w.className="twiga-blog-search";i.type="search";i.placeholder="Search articles…";i.setAttribute("aria-label","Search articles");w.append(i);list.before(w);empty.className="twiga-search-empty";empty.textContent="No articles match that search.";list.append(empty);b.addEventListener("click",()=>{let open=w.classList.toggle("is-open");b.setAttribute("aria-expanded",String(open));if(open)i.focus();else{i.value="";i.dispatchEvent(new Event("input"))}});i.addEventListener("input",()=>{let n=0,q=i.value.toLowerCase().trim();[...list.children].forEach(c=>{if(c===empty)return;let yes=!q||c.textContent.toLowerCase().includes(q);c.style.display=yes?"":"none";if(yes)n++});empty.style.display=n?"none":"block"})}
-function init(){menu();anchors();faqs();demo();newsletters();search()}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
+
+function voiceSamples(){
+ const list=document.querySelector(".framer-kl72hc");
+ if(!list||list.dataset.twigaVoiceReady)return;
+ list.dataset.twigaVoiceReady="1";
+ const voices=[
+  {name:"Sarah",label:"Female · American",description:"Warm, confident and reassuring — a polished voice for everyday customer calls.",url:"https://storage.googleapis.com/eleven-public-prod/premade/voices/EXAVITQu4vr4xnSDxMaL/01a3e33c-6e99-4ee7-8543-ff2216a32186.mp3"},
+  {name:"Alice",label:"Female · British",description:"Clear, friendly and professional — a calm voice for explaining services and answering enquiries.",url:"https://storage.googleapis.com/eleven-public-prod/premade/voices/Xb7hH8MSUJpSbSDYk0k2/d10f7534-11f6-41fe-a012-2de1e482d336.mp3"},
+  {name:"Bella",label:"Female · American",description:"Bright, warm and professional — an approachable choice for customer-facing businesses.",url:"https://storage.googleapis.com/eleven-public-prod/premade/voices/hpp4J3VqNfWAUOO0d1Us/dab0f5ba-3aa4-48a8-9fad-f138fea1126d.mp3"},
+  {name:"Jessica",label:"Female · American",description:"Friendly, lively and conversational — a more upbeat style for welcoming callers.",url:"https://storage.googleapis.com/eleven-public-prod/premade/voices/cgSgspJ2msm6clMCkdW9/56a97bf8-b69b-448f-846c-c3a11683d45a.mp3"}
+ ];
+ const cards=[...list.querySelectorAll(".framer-j7yRw")].slice(0,4);
+ const audios=[];
+ cards.forEach((card,index)=>{
+  const voice=voices[index];if(!voice)return;
+  const specialty=card.querySelector('[data-framer-name="Specialty"] p');
+  if(specialty)specialty.textContent=voice.label;
+  const body=card.querySelector('[data-framer-name="Body"]');
+  if(!body)return;
+  body.innerHTML="";
+  const title=document.createElement("h3");title.className="twiga-voice-name";title.textContent=voice.name;
+  const desc=document.createElement("p");desc.className="twiga-voice-description";desc.textContent=voice.description;
+  const button=document.createElement("button");button.type="button";button.className="twiga-voice-play";button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false");
+  const audio=document.createElement("audio");audio.preload="none";audio.setAttribute("aria-label",voice.name+" voice sample");
+  const source=document.createElement("source");source.src=voice.url;source.type="audio/mpeg";audio.append(source);
+  audios.push({audio,button});
+  button.addEventListener("click",async()=>{
+   if(!audio.paused){audio.pause();button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false");return}
+   audios.forEach(item=>{if(item.audio!==audio){item.audio.pause();item.button.textContent="▶ Play voice sample";item.button.setAttribute("aria-pressed","false")}});
+   button.textContent="Loading sample…";
+   try{await audio.play();button.textContent="Ⅱ Pause sample";button.setAttribute("aria-pressed","true")}
+   catch(err){button.textContent="▶ Try sample again";button.setAttribute("aria-pressed","false");status(card,"This sample could not play in this browser. Please try another voice.",true)}
+  });
+  audio.addEventListener("ended",()=>{button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false")});
+  audio.addEventListener("pause",()=>{if(audio.currentTime===0){button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false")}});
+  body.append(title,desc,button,audio);
+ });
+ const section=list.closest('[data-framer-name="Meet Our AI Voices"]')||list.parentElement;
+ const heading=section?.querySelector("h2");
+ if(heading)heading.textContent="Hear the Available AI Voices";
+ const intro=section?.querySelector('[data-framer-name="Intro"] p');
+ if(intro)intro.textContent="These are AI voice presets, not members of our team. Play a short sample, then tell us which voice style suits your business.";
+ const select=document.querySelector('[data-twiga-form="demo"] select[name="preferred_voice"]');
+ if(select){select.innerHTML='<option value="">No preference</option><option value="Sarah">Sarah — warm and reassuring</option><option value="Alice">Alice — clear and professional</option><option value="Bella">Bella — bright and polished</option><option value="Jessica">Jessica — friendly and upbeat</option>';}
+}
+\nfunction init(){menu();anchors();faqs();demo();newsletters();search();voiceSamples()}if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init();
 })();
