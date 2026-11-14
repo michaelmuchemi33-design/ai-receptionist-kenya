@@ -436,16 +436,20 @@
   }
 }
 
-/* Consistent burnt-orange SVG interface icon treatment (logos and image assets stay untouched). */
-svg[role="presentation"]{
-  color:#c65a24!important;
-  --21h8s6:#c65a24!important;
-}
-svg[role="presentation"] path,
-svg[role="presentation"] circle,
-svg[role="presentation"] line,
-svg[role="presentation"] polyline,
-svg[role="presentation"] polygon,
-svg[role="presentation"] rect{
-  stroke:#c65a24!important;
-}
+/* Homepage pricing must occupy its own spacious full-width row before the FAQ. */
+.framer-vunw5t .framer-19wb3xk{display:grid!important;grid-template-columns:minmax(0,1fr)!important;gap:72px!important;align-items:stretch!important;width:100%!important;max-width:100%!important}
+.framer-vunw5t .framer-19wb3xk>.framer-tx57ib{display:block!important;flex:none!important;width:100%!important;min-width:0!important;max-width:100%!important}
+.framer-vunw5t .framer-19wb3xk>.framer-1kz66uo{display:flex!important;flex:none!important;width:min(980px,100%)!important;min-width:0!important;max-width:980px!important;margin:0 auto!important}
+.framer-vunw5t .framer-19wb3xk .framer-1erld54-container{width:100%!important;max-width:100%!important}
+.framer-vunw5t .framer-19wb3xk .framer-ptTdS{width:100%!important;max-width:100%!important}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{width:min(1120px,100%)!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:24px!important;margin:38px auto 0!important}
+.framer-vunw5t .framer-19wb3xk [data-framer-name^="Pricing Card"]{min-width:0!important;min-height:430px!important;padding:32px!important;border-radius:24px!important}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-o43gdl{display:flex!important;flex-direction:column!important;gap:18px!important;width:100%!important;flex:1 1 auto!important}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-axzzxc p{font-size:16px!important;line-height:1.75!important;color:#57534f!important}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-1jy4vrb p{font-size:clamp(24px,2.2vw,32px)!important;line-height:1.2!important;font-weight:850!important}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] a.framer-lxht4p{width:100%!important;margin-top:auto!important}
+.framer-vunw5t .framer-19wb3xk>.framer-tx57ib>.framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu{max-width:860px!important;width:100%!important;margin:0 auto!important;text-align:center!important}
+.framer-vunw5t .framer-19wb3xk>.framer-tx57ib>.framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu h2{font-size:clamp(32px,4vw,48px)!important;line-height:1.1!important;text-align:center!important}
+.framer-vunw5t .framer-19wb3xk>.framer-tx57ib>.framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu p{font-size:18px!important;line-height:1.8!important;text-align:center!important}
+@media(max-width:900px){.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}.framer-vunw5t .framer-19wb3xk [data-framer-name^="Pricing Card"]{min-height:390px!important}}
+@media(max-width:620px){.framer-vunw5t .framer-19wb3xk{gap:48px!important}.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{grid-template-columns:minmax(0,1fr)!important;width:100%!important;gap:18px!important}.framer-vunw5t .framer-19wb3xk [data-framer-name^="Pricing Card"]{min-height:0!important;padding:26px 22px!important}.framer-vunw5t .framer-19wb3xk>.framer-1kz66uo{width:100%!important}}
