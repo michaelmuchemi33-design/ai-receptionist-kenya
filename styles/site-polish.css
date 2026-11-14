@@ -246,3 +246,30 @@ a[href*="contact.html#appointment"]{text-decoration:none!important}
 .twiga-voice-play[aria-pressed="true"]{background:#171717;color:#fff;border-color:#171717}
 .framer-185egxy .framer-kl72hc audio{display:none}
 @media(max-width:760px){.twiga-voice-description{min-height:0}}
+
+
+/* Keep the industry section label with its full-width heading after card row two. */
+.framer-ax4wqm .framer-3isaxa>.ssr-variant:nth-last-child(2){grid-column:1/-1!important}
+.framer-ax4wqm .framer-3isaxa>.framer-lhpwam{grid-column:1/-1!important}
+
+/* Contact / Get Started page: keep the hero readable and the request path compact. */
+.framer-u51sxk{width:100%!important;max-width:100%!important;min-width:0!important}
+.framer-u51sxk .framer-dmhrms{box-sizing:border-box!important;width:100%!important;max-width:100%!important;min-height:clamp(420px,48vw,620px)!important;height:auto!important;overflow:hidden!important}
+.framer-u51sxk .framer-1wf10es{position:relative!important;z-index:2!important;box-sizing:border-box!important;width:min(760px,calc(100% - 40px))!important;max-width:760px!important;margin-inline:auto!important}
+.framer-u51sxk .framer-1wf10es h1{max-width:14ch!important;font-size:clamp(34px,4.3vw,58px)!important;line-height:1.06!important;letter-spacing:-.045em!important;overflow-wrap:normal!important}
+.framer-u51sxk .framer-1wf10es p{max-width:58ch!important;line-height:1.65!important}
+.framer-u51sxk .framer-1fqxqx8{pointer-events:none!important}
+.framer-1r2k0zs{padding-block:clamp(28px,4vw,48px)!important}
+.framer-1r2k0zs .framer-67jcdw{width:min(1120px,calc(100% - 40px))!important;max-width:1120px!important;margin-inline:auto!important}
+.framer-1r2k0zs .framer-2bkwi0{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:16px!important;width:100%!important}
+.framer-1r2k0zs .framer-2bkwi0>div{min-width:0!important;width:100%!important;max-width:none!important}
+.framer-1cmht4j{width:min(760px,calc(100% - 40px))!important;max-width:760px!important;margin-inline:auto!important}
+.framer-1gy79i3 .framer-f7giie{max-width:820px!important}
+@media(max-width:760px){
+ .framer-u51sxk .framer-dmhrms{min-height:430px!important}
+ .framer-u51sxk .framer-1wf10es{width:calc(100% - 36px)!important}
+ .framer-u51sxk .framer-1wf10es h1{font-size:clamp(32px,9vw,44px)!important;line-height:1.08!important}
+ .framer-1r2k0zs .framer-67jcdw{width:calc(100% - 32px)!important}
+ .framer-1r2k0zs .framer-2bkwi0{grid-template-columns:minmax(0,1fr)!important}
+ .framer-1cmht4j{width:calc(100% - 32px)!important}
+}
