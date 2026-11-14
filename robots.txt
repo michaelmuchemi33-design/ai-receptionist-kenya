@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ai-receptionist-kenya.vercel.app/sitemap.xml
+Sitemap: https://twiga.co.ke/sitemap.xml
