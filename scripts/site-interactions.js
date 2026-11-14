@@ -39,13 +39,22 @@ function voiceSamples(){
   const desc=document.createElement("p");desc.className="twiga-voice-description";desc.textContent=voice.description;
   const button=document.createElement("button");button.type="button";button.className="twiga-voice-play";button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false");
   const audio=document.createElement("audio");audio.preload="none";audio.setAttribute("aria-label",voice.name+" voice sample");
-  const source=document.createElement("source");source.src=voice.url;source.type="audio/mpeg";audio.append(source);
   audios.push({audio,button});
   button.addEventListener("click",async()=>{
    if(!audio.paused){audio.pause();button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false");return}
    audios.forEach(item=>{if(item.audio!==audio){item.audio.pause();item.button.textContent="▶ Play voice sample";item.button.setAttribute("aria-pressed","false")}});
    button.textContent="Loading sample…";
-   try{await audio.play();button.textContent="Ⅱ Pause sample";button.setAttribute("aria-pressed","true")}
+   try{
+    if(!audio.dataset.loaded){
+     const response=await fetch(voice.url,{mode:"cors"});
+     if(!response.ok)throw new Error("Voice sample could not be downloaded.");
+     const bytes=await response.arrayBuffer();
+     audio.src=URL.createObjectURL(new Blob([bytes],{type:"audio/mpeg"}));
+     audio.dataset.loaded="1";
+     audio.load();
+    }
+    await audio.play();button.textContent="Ⅱ Pause sample";button.setAttribute("aria-pressed","true")
+   }
    catch(err){button.textContent="▶ Try sample again";button.setAttribute("aria-pressed","false");status(card,"This sample could not play in this browser. Please try another voice.",true)}
   });
   audio.addEventListener("ended",()=>{button.textContent="▶ Play voice sample";button.setAttribute("aria-pressed","false")});
