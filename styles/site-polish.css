@@ -42,3 +42,12 @@ body{background:#fff;color:var(--twiga-ink)}
 @media(max-width:900px){[data-framer-name="Values"],[data-framer-name="Steps"],[data-framer-name="AI Voices"],[data-framer-name="Pricing Wrapper"],[data-framer-name="Articles List"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}}
 @media(max-width:650px){[data-framer-name="Features List"],[data-framer-name="Our Values Card"],[data-framer-name="Values"],[data-framer-name="Benefits"],[data-framer-name="Steps"],[data-framer-name="AI Voices"],[data-framer-name="Pricing Wrapper"],[data-framer-name="Articles List"]{grid-template-columns:minmax(0,1fr)!important;gap:14px!important}[data-framer-name="Features List"] [data-framer-name="Default"],[data-framer-name="Our Values Card"] [data-framer-name="Default"]{min-height:0!important;padding:19px!important}[data-framer-name="Customer Conversations"],[data-framer-name="Business Communication Insights"]{padding-block:44px!important}}
 @media(prefers-reduced-motion:reduce){[data-framer-name="Features List"] [data-framer-name="Default"]{transition:none!important}}
+
+/* Pricing is nested in an exported split column; let the three plans use the full content width. */
+[data-framer-name="FAQ"] .framer-19wb3xk,
+[data-framer-name="FAQ"] .framer-tx57ib,
+[data-framer-name="FAQ"] .framer-1erld54-container{overflow:visible!important;max-width:100%!important}
+[data-framer-name="Pricing Wrapper"]{position:relative!important;left:0!important;width:min(1104px,calc(100vw - 48px))!important;max-width:min(1104px,calc(100vw - 48px))!important;margin:28px auto 0!important;grid-template-columns:repeat(3,minmax(0,1fr))!important;gap:18px!important}
+[data-framer-name="Pricing Wrapper"]>div{width:100%!important;min-width:0!important;max-width:100%!important}
+[data-framer-name="Values"],[data-framer-name="Steps"],[data-framer-name="AI Voices"]{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+@media(max-width:650px){[data-framer-name="Pricing Wrapper"]{width:calc(100vw - 36px)!important;max-width:calc(100vw - 36px)!important;grid-template-columns:minmax(0,1fr)!important;margin:20px auto 0!important}[data-framer-name="Values"],[data-framer-name="Steps"],[data-framer-name="AI Voices"]{grid-template-columns:minmax(0,1fr)!important}}
