@@ -662,3 +662,215 @@
     padding:22px 18px!important;
   }
 }
+
+
+/* TWIGA homepage corrections: centered hero, obvious blue demo path, spacious pricing cards. */
+.framer-1dl1x4e .framer-xw1yz9,
+.framer-1dl1x4e .framer-d3lvcp,
+.framer-1dl1x4e .framer-1r10bcl{
+  width:100%!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+  text-align:center!important;
+}
+.framer-1dl1x4e .framer-xw1yz9{align-items:center!important}
+.framer-1dl1x4e .framer-d3lvcp{max-width:900px!important}
+.framer-1dl1x4e .framer-d3lvcp h1{
+  width:100%!important;
+  max-width:900px!important;
+  margin:0 auto!important;
+  font-size:clamp(40px,6vw,76px)!important;
+  line-height:1.06!important;
+  letter-spacing:-.045em!important;
+  text-align:center!important;
+  text-wrap:balance!important;
+}
+.framer-1dl1x4e .framer-1r10bcl{max-width:760px!important}
+.framer-1dl1x4e .framer-1r10bcl p{
+  font-size:clamp(16px,1.7vw,20px)!important;
+  line-height:1.75!important;
+  text-align:center!important;
+}
+.framer-1dl1x4e .framer-wxh07c{
+  display:flex!important;
+  flex-wrap:wrap!important;
+  justify-content:center!important;
+  align-items:center!important;
+  gap:14px!important;
+  width:100%!important;
+  margin-left:auto!important;
+  margin-right:auto!important;
+}
+.framer-1dl1x4e a[data-framer-name="Outline Light"][href="#examples"]{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  min-height:54px!important;
+  padding:15px 25px!important;
+  border:1px solid #2563eb!important;
+  border-radius:999px!important;
+  background:#2563eb!important;
+  color:#fff!important;
+  font-size:15px!important;
+  font-weight:750!important;
+  line-height:1.25!important;
+  text-decoration:none!important;
+  box-shadow:0 10px 26px rgba(37,99,235,.22)!important;
+  transition:background .2s ease,transform .2s ease,box-shadow .2s ease!important;
+}
+.framer-1dl1x4e a[data-framer-name="Outline Light"][href="#examples"]:hover{
+  background:#1d4ed8!important;
+  border-color:#1d4ed8!important;
+  color:#fff!important;
+  transform:translateY(-2px)!important;
+  box-shadow:0 14px 30px rgba(37,99,235,.28)!important;
+}
+.framer-1gd4wtx .framer-navdemo a{
+  color:#2563eb!important;
+  font-weight:800!important;
+}
+.framer-ldvkx5 .framer-cjx8ni{
+  width:100%!important;
+  max-width:920px!important;
+  margin:0 auto!important;
+  text-align:center!important;
+}
+.framer-ldvkx5 .framer-cjx8ni h2,
+.framer-ldvkx5 h2#industries{
+  width:100%!important;
+  max-width:920px!important;
+  margin:0 auto!important;
+  text-align:center!important;
+  text-wrap:balance!important;
+}
+
+/* Fix the actual plan cards, including their nested button surfaces. */
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  align-items:stretch!important;
+  gap:26px!important;
+  width:min(1160px,calc(100% - 48px))!important;
+  max-width:1160px!important;
+  margin:38px auto 8px!important;
+  padding:0!important;
+  box-sizing:border-box!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]>[data-framer-name^="Pricing Card"]{
+  display:flex!important;
+  flex-direction:column!important;
+  align-items:stretch!important;
+  box-sizing:border-box!important;
+  width:100%!important;
+  min-width:0!important;
+  min-height:440px!important;
+  height:auto!important;
+  margin:0!important;
+  padding:34px 30px!important;
+  border:1px solid #e4dfd7!important;
+  border-radius:24px!important;
+  background:#fff!important;
+  color:#171717!important;
+  box-shadow:0 12px 34px rgba(20,20,20,.07)!important;
+  overflow:visible!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]>[data-framer-name="Pricing Card Featured"]{
+  border:2px solid #ed762f!important;
+  box-shadow:0 16px 40px rgba(237,118,47,.14)!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] [data-framer-name="Body"]{
+  display:flex!important;
+  flex:1 1 auto!important;
+  flex-direction:column!important;
+  align-items:stretch!important;
+  gap:20px!important;
+  width:100%!important;
+  min-width:0!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] h3{
+  margin:0!important;
+  font-size:clamp(23px,2vw,29px)!important;
+  line-height:1.22!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-axzzxc,
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-axzzxc p{
+  width:100%!important;
+  max-width:none!important;
+  margin:0!important;
+  font-size:16px!important;
+  line-height:1.75!important;
+  color:#514d48!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-1jy4vrb{
+  width:100%!important;
+  margin:8px 0!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] .framer-1jy4vrb p{
+  margin:0!important;
+  font-size:clamp(25px,2.2vw,34px)!important;
+  line-height:1.2!important;
+  font-weight:850!important;
+  white-space:normal!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] a[data-framer-name="Button"]{
+  display:flex!important;
+  align-items:stretch!important;
+  justify-content:stretch!important;
+  width:100%!important;
+  min-height:56px!important;
+  height:auto!important;
+  margin-top:auto!important;
+  padding:0!important;
+  border-radius:11px!important;
+  background:transparent!important;
+  text-decoration:none!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] a[data-framer-name="Button"]>div[data-framer-name="Button"]{
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  width:100%!important;
+  min-height:56px!important;
+  height:auto!important;
+  padding:16px 22px!important;
+  border-radius:11px!important;
+  background:#ed762f!important;
+  color:#171717!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"] a[data-framer-name="Button"] p{
+  margin:0!important;
+  font-size:16px!important;
+  line-height:1.35!important;
+  font-weight:800!important;
+  color:#171717!important;
+  text-align:center!important;
+}
+@media(max-width:900px){
+  .framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    width:calc(100% - 40px)!important;
+    gap:20px!important;
+  }
+  .framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]>[data-framer-name^="Pricing Card"]{
+    min-height:410px!important;
+    padding:28px 24px!important;
+  }
+}
+@media(max-width:620px){
+  .framer-1dl1x4e .framer-d3lvcp h1{font-size:clamp(36px,10vw,52px)!important}
+  .framer-1dl1x4e .framer-wxh07c{flex-direction:column!important;gap:12px!important}
+  .framer-1dl1x4e .framer-wxh07c>a,
+  .framer-1dl1x4e .framer-wxh07c>div{width:min(100%,340px)!important}
+  .framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{
+    grid-template-columns:minmax(0,1fr)!important;
+    width:calc(100% - 36px)!important;
+    gap:18px!important;
+  }
+  .framer-vunw5t .framer-19wb3xk [data-framer-name="Pricing Wrapper"]>[data-framer-name^="Pricing Card"]{
+    min-height:0!important;
+    padding:28px 24px!important;
+  }
+}
