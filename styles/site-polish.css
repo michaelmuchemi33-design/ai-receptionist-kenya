@@ -402,3 +402,36 @@
     min-height:0!important;
   }
 }
+
+/* Photo-backed Business-Specific Information / trust section. */
+.framer-1se20gt{
+  position:relative!important;
+  isolation:isolate!important;
+  overflow:hidden!important;
+  background:#101010!important;
+  color:#fff!important;
+}
+.framer-1se20gt::before{
+  content:""!important;
+  position:absolute!important;
+  inset:0!important;
+  z-index:-1!important;
+  background:
+    linear-gradient(105deg,rgba(8,8,8,.88) 0%,rgba(8,8,8,.72) 52%,rgba(8,8,8,.48) 100%),
+    url("../images/BDY1xNGXOX3wYu7dak15kKcVprU.jpg") center 48%/cover no-repeat!important;
+  transform:scale(1.015)!important;
+}
+.framer-1se20gt h1,.framer-1se20gt h2,.framer-1se20gt h3,
+.framer-1se20gt p,.framer-1se20gt span{color:#fff!important}
+.framer-1se20gt [data-framer-name="Light"]{
+  background:rgba(255,255,255,.12)!important;
+  border:1px solid rgba(255,255,255,.22)!important;
+  backdrop-filter:blur(8px)!important;
+}
+@media(max-width:760px){
+  .framer-1se20gt::before{
+    background:
+      linear-gradient(180deg,rgba(8,8,8,.86),rgba(8,8,8,.68)),
+      url("../images/BDY1xNGXOX3wYu7dak15kKcVprU.jpg") center/cover no-repeat!important;
+  }
+}
