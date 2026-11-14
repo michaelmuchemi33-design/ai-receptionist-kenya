@@ -874,3 +874,472 @@
     padding:28px 24px!important;
   }
 }
+
+
+/* TWIGA pricing section refresh: comfortable spacing, readable cards and a clear FAQ flow. */
+.framer-vunw5t{
+  width:100%!important;
+  padding:clamp(68px,8vw,112px) 0!important;
+  background:#f6f5f1!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-qodaa3{
+  box-sizing:border-box!important;
+  width:min(1240px,calc(100% - 56px))!important;
+  max-width:1240px!important;
+  margin:0 auto!important;
+}
+.framer-vunw5t .framer-19wb3xk{
+  display:flex!important;
+  flex-direction:column!important;
+  align-items:stretch!important;
+  justify-content:flex-start!important;
+  gap:clamp(42px,5vw,68px)!important;
+  width:100%!important;
+  max-width:100%!important;
+}
+.framer-vunw5t .framer-tx57ib{
+  display:block!important;
+  flex:none!important;
+  width:100%!important;
+  min-width:0!important;
+  max-width:100%!important;
+}
+.framer-vunw5t .framer-1erld54-container{
+  display:block!important;
+  width:100%!important;
+  max-width:100%!important;
+  min-width:0!important;
+  overflow:visible!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS{
+  display:flex!important;
+  flex-direction:column!important;
+  align-items:stretch!important;
+  gap:clamp(28px,3vw,42px)!important;
+  box-sizing:border-box!important;
+  width:100%!important;
+  max-width:100%!important;
+  padding:clamp(28px,4.5vw,58px)!important;
+  border:1px solid #e8e3dc!important;
+  border-radius:30px!important;
+  background:#fff!important;
+  overflow:visible!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-3h9xtb{
+  display:none!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h2){
+  display:flex!important;
+  flex-direction:column!important;
+  align-items:center!important;
+  justify-content:center!important;
+  gap:16px!important;
+  width:min(900px,100%)!important;
+  max-width:900px!important;
+  margin:0 auto!important;
+  padding:0 12px!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h2) h2{
+  max-width:850px!important;
+  margin:0!important;
+  font-size:clamp(34px,4.3vw,54px)!important;
+  line-height:1.08!important;
+  letter-spacing:-.045em!important;
+  text-align:center!important;
+  text-wrap:balance!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h2) p{
+  max-width:760px!important;
+  margin:0 auto!important;
+  font-size:clamp(16px,1.5vw,19px)!important;
+  line-height:1.8!important;
+  color:#5b5752!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-1xuw6qv{
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  align-items:stretch!important;
+  gap:24px!important;
+  width:100%!important;
+  max-width:1160px!important;
+  margin:0 auto!important;
+  padding:0!important;
+  box-sizing:border-box!important;
+}
+.framer-vunw5t .framer-1xuw6qv>[data-framer-name^="Pricing Card"]{
+  display:flex!important;
+  flex-direction:column!important;
+  align-items:stretch!important;
+  box-sizing:border-box!important;
+  width:100%!important;
+  min-width:0!important;
+  min-height:390px!important;
+  height:auto!important;
+  margin:0!important;
+  padding:clamp(26px,2.7vw,36px)!important;
+  border:1px solid #e5e0d9!important;
+  border-radius:24px!important;
+  background:#fff!important;
+  color:#171717!important;
+  box-shadow:0 12px 34px rgba(20,20,20,.065)!important;
+  overflow:visible!important;
+}
+.framer-vunw5t .framer-1xuw6qv>[data-framer-name="Pricing Card Featured"]{
+  border:2px solid #ed762f!important;
+  box-shadow:0 16px 40px rgba(237,118,47,.14)!important;
+}
+.framer-vunw5t .framer-1xuw6qv [data-framer-name="Media"]{
+  display:none!important;
+}
+.framer-vunw5t .framer-1xuw6qv .framer-o43gdl{
+  display:flex!important;
+  flex:1 1 auto!important;
+  flex-direction:column!important;
+  align-items:stretch!important;
+  gap:22px!important;
+  width:100%!important;
+  min-width:0!important;
+}
+.framer-vunw5t .framer-1xuw6qv h3{
+  margin:0!important;
+  font-size:clamp(23px,2.1vw,29px)!important;
+  line-height:1.22!important;
+  letter-spacing:-.03em!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-1xuw6qv .framer-axzzxc,
+.framer-vunw5t .framer-1xuw6qv .framer-axzzxc p{
+  width:100%!important;
+  max-width:none!important;
+  margin:0!important;
+  font-size:16px!important;
+  line-height:1.75!important;
+  color:#55514c!important;
+  white-space:normal!important;
+}
+.framer-vunw5t .framer-1xuw6qv .framer-1jy4vrb{
+  width:100%!important;
+  margin:4px 0!important;
+}
+.framer-vunw5t .framer-1xuw6qv .framer-1jy4vrb p{
+  margin:0!important;
+  font-size:clamp(26px,2.3vw,34px)!important;
+  line-height:1.2!important;
+  font-weight:850!important;
+  letter-spacing:-.045em!important;
+  color:#171717!important;
+  white-space:normal!important;
+}
+.framer-vunw5t .framer-1xuw6qv a[data-framer-name="Button"]{
+  display:flex!important;
+  align-items:stretch!important;
+  justify-content:stretch!important;
+  width:100%!important;
+  min-height:58px!important;
+  height:auto!important;
+  margin-top:auto!important;
+  padding:0!important;
+  border:0!important;
+  border-radius:14px!important;
+  background:transparent!important;
+  text-decoration:none!important;
+}
+.framer-vunw5t .framer-1xuw6qv a[data-framer-name="Button"]>div[data-framer-name="Button"]{
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  width:100%!important;
+  min-height:58px!important;
+  height:auto!important;
+  padding:16px 24px!important;
+  border-radius:14px!important;
+  background:#f47721!important;
+  color:#171717!important;
+  text-align:center!important;
+  transition:background .2s ease,transform .2s ease,box-shadow .2s ease!important;
+}
+.framer-vunw5t .framer-1xuw6qv a[data-framer-name="Button"]:hover>div[data-framer-name="Button"]{
+  background:#e76c18!important;
+  transform:translateY(-2px)!important;
+  box-shadow:0 10px 24px rgba(244,119,33,.2)!important;
+}
+.framer-vunw5t .framer-1xuw6qv a[data-framer-name="Button"] p{
+  margin:0!important;
+  font-size:16px!important;
+  line-height:1.35!important;
+  font-weight:800!important;
+  color:#171717!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-1xuw6qv .framer-1iwm6fl:has(.framer-1jy4vrb) .framer-1jy4vrb p{
+  display:inline-flex!important;
+  align-items:center!important;
+  width:auto!important;
+  padding:7px 10px!important;
+  border-radius:999px!important;
+  background:#fff0e5!important;
+  color:#9c4610!important;
+  font-size:10px!important;
+  line-height:1.2!important;
+  letter-spacing:.08em!important;
+  font-weight:850!important;
+}
+
+/* Separate and simplify the monthly-cost explanation so it reads like a useful note. */
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h3){
+  display:flex!important;
+  flex-direction:column!important;
+  align-items:flex-start!important;
+  gap:12px!important;
+  box-sizing:border-box!important;
+  width:min(100%,1000px)!important;
+  max-width:1000px!important;
+  margin:8px auto 0!important;
+  padding:30px clamp(22px,3vw,38px)!important;
+  border:1px solid #eadfd3!important;
+  border-radius:22px!important;
+  background:#fbf7f2!important;
+  text-align:left!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h3) h3{
+  margin:0!important;
+  font-size:clamp(24px,2.6vw,31px)!important;
+  line-height:1.2!important;
+  letter-spacing:-.035em!important;
+  text-align:left!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h3) p{
+  max-width:900px!important;
+  margin:0!important;
+  font-size:16px!important;
+  line-height:1.8!important;
+  color:#504b45!important;
+  text-align:left!important;
+}
+.framer-vunw5t .twiga-cost-guide{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  gap:10px!important;
+  min-height:48px!important;
+  margin-top:6px!important;
+  padding:12px 18px!important;
+  border:1px solid #ed762f!important;
+  border-radius:12px!important;
+  background:#fff!important;
+  color:#9c4610!important;
+  font-size:14px!important;
+  font-weight:800!important;
+  line-height:1.35!important;
+  text-decoration:none!important;
+}
+.framer-vunw5t .twiga-cost-guide:hover{
+  background:#fff0e5!important;
+  color:#71320b!important;
+}
+
+/* FAQ label and accordion now have their own breathing room. */
+.framer-vunw5t .framer-z7b0li{
+  display:flex!important;
+  justify-content:center!important;
+  width:100%!important;
+  margin:24px auto 0!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-z7b0li p{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  margin:0!important;
+  padding:9px 14px!important;
+  border-radius:999px!important;
+  background:#fff0e5!important;
+  color:#a24a11!important;
+  font-size:11px!important;
+  line-height:1.2!important;
+  letter-spacing:.1em!important;
+  font-weight:850!important;
+}
+.framer-vunw5t .framer-g1rrg6{
+  width:min(850px,100%)!important;
+  max-width:850px!important;
+  margin:0 auto!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-g1rrg6 h2{
+  margin:0!important;
+  font-size:clamp(32px,4vw,46px)!important;
+  line-height:1.12!important;
+  letter-spacing:-.04em!important;
+  text-align:center!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-grrwin{
+  width:min(760px,100%)!important;
+  max-width:760px!important;
+  margin:-30px auto 0!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-grrwin p{
+  margin:0!important;
+  font-size:17px!important;
+  line-height:1.75!important;
+  color:#605b55!important;
+  text-align:center!important;
+}
+.framer-vunw5t .framer-u336du-container{
+  display:flex!important;
+  justify-content:center!important;
+  width:100%!important;
+  margin:-20px auto 12px!important;
+}
+.framer-vunw5t .framer-u336du-container>a{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  min-height:52px!important;
+  padding:13px 24px!important;
+  border-radius:14px!important;
+  background:#f47721!important;
+  color:#171717!important;
+  font-weight:850!important;
+}
+.framer-vunw5t .framer-HTCmV[data-framer-name="Closed"]{
+  box-sizing:border-box!important;
+  width:100%!important;
+  min-height:66px!important;
+  margin:0 auto 14px!important;
+  padding:18px 22px!important;
+  border:1px solid #e8e2da!important;
+  border-radius:17px!important;
+  background:#fff!important;
+  color:#171717!important;
+  box-shadow:0 7px 20px rgba(20,20,20,.035)!important;
+}
+.framer-vunw5t .framer-HTCmV[data-framer-name="Closed"] h4{
+  margin:0!important;
+  font-size:17px!important;
+  line-height:1.45!important;
+  font-weight:750!important;
+  color:#171717!important;
+}
+.framer-vunw5t .framer-HTCmV[data-framer-name="Closed"] .framer-1bykjoc{
+  background:#fff0e5!important;
+}
+@media(max-width:900px){
+  .framer-vunw5t .framer-1xuw6qv{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    gap:18px!important;
+  }
+  .framer-vunw5t .framer-1xuw6qv>[data-framer-name^="Pricing Card"]{
+    min-height:360px!important;
+  }
+}
+@media(max-width:620px){
+  .framer-vunw5t{
+    padding:54px 0 68px!important;
+  }
+  .framer-vunw5t .framer-qodaa3{
+    width:calc(100% - 32px)!important;
+  }
+  .framer-vunw5t .framer-19wb3xk{
+    gap:38px!important;
+  }
+  .framer-vunw5t .framer-1erld54-container>.framer-ptTdS{
+    gap:24px!important;
+    padding:28px 18px!important;
+    border-radius:22px!important;
+  }
+  .framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h2){
+    padding:0!important;
+  }
+  .framer-vunw5t .framer-1xuw6qv{
+    grid-template-columns:minmax(0,1fr)!important;
+    gap:16px!important;
+  }
+  .framer-vunw5t .framer-1xuw6qv>[data-framer-name^="Pricing Card"]{
+    min-height:0!important;
+    padding:25px 22px!important;
+    border-radius:20px!important;
+  }
+  .framer-vunw5t .framer-1erld54-container>.framer-ptTdS>.framer-15pj0yu:has(> .framer-v7d413 h3){
+    padding:24px 20px!important;
+  }
+  .framer-vunw5t .framer-z7b0li{
+    margin:14px auto 0!important;
+  }
+  .framer-vunw5t .framer-grrwin{margin:-18px auto 0!important}
+}
+
+/* Make the two primary paths obvious: see a demo or open the app. */
+.framer-1dl1x4e a[data-framer-name="Outline Light"][href="#examples"]{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  min-width:230px!important;
+  min-height:60px!important;
+  padding:17px 32px!important;
+  border:1px solid #f47721!important;
+  border-radius:15px!important;
+  background:#f47721!important;
+  color:#171717!important;
+  font-size:16px!important;
+  font-weight:850!important;
+  line-height:1.25!important;
+  text-decoration:none!important;
+  box-shadow:0 12px 28px rgba(244,119,33,.22)!important;
+  transition:background .2s ease,transform .2s ease,box-shadow .2s ease!important;
+}
+.framer-1dl1x4e a[data-framer-name="Outline Light"][href="#examples"]:hover{
+  border-color:#e76c18!important;
+  background:#e76c18!important;
+  color:#171717!important;
+  transform:translateY(-2px)!important;
+  box-shadow:0 16px 34px rgba(244,119,33,.28)!important;
+}
+[data-framer-name="Nav Wrapper"] a[href="https://app.twiga.co.ke/"]{
+  display:inline-flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  min-height:46px!important;
+  padding:12px 18px!important;
+  border-radius:14px!important;
+  background:#f47721!important;
+  color:#171717!important;
+  font-weight:850!important;
+  text-decoration:none!important;
+}
+[data-framer-name="Nav Wrapper"] .framer-zu4h9j-container a[data-framer-name="Light"]{
+  min-height:48px!important;
+  padding:13px 22px!important;
+  border-radius:14px!important;
+  background:#f47721!important;
+  color:#171717!important;
+  font-weight:850!important;
+}
+@media(max-width:620px){
+  .framer-1dl1x4e a[data-framer-name="Outline Light"][href="#examples"]{
+    width:min(100%,340px)!important;
+    min-width:0!important;
+    min-height:58px!important;
+    border-radius:14px!important;
+  }
+}
+.twiga-nav-overlay nav a[href="https://app.twiga.co.ke/"]{
+  display:flex!important;
+  align-items:center!important;
+  justify-content:center!important;
+  min-height:54px!important;
+  margin-top:12px!important;
+  padding:14px 20px!important;
+  border-radius:14px!important;
+  background:#f47721!important;
+  color:#171717!important;
+  font-weight:850!important;
+  text-decoration:none!important;
+}
