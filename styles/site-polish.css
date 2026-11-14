@@ -294,3 +294,202 @@ a[href*="contact.html#appointment"] [data-framer-name="Label"] span{color:#17171
 a[href*="contact.html#appointment"] [data-framer-name="Circle"]{display:flex!important;flex:0 0 31px!important;width:31px!important;height:31px!important;align-items:center!important;justify-content:center!important;background:#171717!important}
 a[href*="contact.html#appointment"] [data-framer-name="Plus"]{color:#f07832!important}
 a[href*="contact.html#appointment"]:hover{background:#ff8a43!important;transform:translateY(-1px)!important}
+
+
+/* Final homepage layout pass — use the supplied CUREVANTA reference for clean spacing
+   and balanced cards while retaining TWIGA copy, imagery and orange/black identity. */
+
+/* Pricing, monthly-cost note and FAQ must read as one vertical sequence. */
+.framer-vunw5t,
+.framer-vunw5t .framer-qodaa3,
+.framer-vunw5t .framer-19wb3xk,
+.framer-vunw5t .framer-tx57ib{
+  display:block!important;
+  position:relative!important;
+  inset:auto!important;
+  float:none!important;
+  clear:both!important;
+  width:100%!important;
+  max-width:100%!important;
+  min-width:0!important;
+  height:auto!important;
+  min-height:0!important;
+  overflow:visible!important;
+  transform:none!important;
+}
+.framer-vunw5t .framer-1erld54-container{
+  display:block!important;
+  position:relative!important;
+  width:100%!important;
+  max-width:100%!important;
+  min-width:0!important;
+  height:auto!important;
+  margin:0!important;
+  overflow:visible!important;
+}
+.framer-vunw5t [data-framer-name="Pricing Wrapper"]{
+  display:grid!important;
+  position:relative!important;
+  inset:auto!important;
+  width:min(1120px,calc(100% - 40px))!important;
+  max-width:1120px!important;
+  margin:28px auto 0!important;
+  padding:0!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  align-items:stretch!important;
+  gap:20px!important;
+}
+.framer-vunw5t [data-framer-name="Pricing Wrapper"]>div{
+  box-sizing:border-box!important;
+  position:relative!important;
+  inset:auto!important;
+  width:100%!important;
+  max-width:none!important;
+  min-width:0!important;
+  height:auto!important;
+  min-height:100%!important;
+  margin:0!important;
+  overflow:visible!important;
+}
+.framer-vunw5t .framer-axzzxc{
+  max-width:920px!important;
+}
+.framer-vunw5t .framer-g1rrg6,
+.framer-vunw5t .framer-grrwin{
+  position:relative!important;
+  inset:auto!important;
+  clear:both!important;
+  width:min(920px,calc(100% - 40px))!important;
+  max-width:920px!important;
+  margin:0 auto!important;
+}
+.framer-vunw5t .framer-g1rrg6{margin-top:58px!important}
+.framer-vunw5t .framer-grrwin{margin-top:10px!important}
+.framer-vunw5t .framer-1kz66uo{
+  display:grid!important;
+  position:relative!important;
+  inset:auto!important;
+  float:none!important;
+  clear:both!important;
+  width:min(920px,calc(100% - 40px))!important;
+  max-width:920px!important;
+  margin:24px auto 0!important;
+  grid-template-columns:minmax(0,1fr)!important;
+  gap:12px!important;
+  transform:none!important;
+}
+.framer-vunw5t .framer-1kz66uo>div{
+  position:relative!important;
+  inset:auto!important;
+  width:100%!important;
+  max-width:100%!important;
+  min-width:0!important;
+  height:auto!important;
+  margin:0!important;
+}
+
+/* Force the server-rendered desktop card variants to participate in the grids.
+   Framer otherwise leaves the exported alternate variants hidden at wide widths. */
+.framer-ldvkx5 .framer-1llxfaq{
+  display:grid!important;
+  width:min(1180px,calc(100% - 40px))!important;
+  max-width:1180px!important;
+  margin:28px auto!important;
+  grid-template-columns:repeat(5,minmax(0,1fr))!important;
+  align-items:stretch!important;
+  gap:16px!important;
+}
+.framer-ldvkx5 .framer-1llxfaq>.ssr-variant{
+  display:block!important;
+  visibility:visible!important;
+  position:relative!important;
+  inset:auto!important;
+  width:100%!important;
+  max-width:none!important;
+  min-width:0!important;
+  height:100%!important;
+  overflow:hidden!important;
+}
+.framer-ax4wqm .framer-3isaxa{
+  display:grid!important;
+  width:100%!important;
+  max-width:100%!important;
+  margin:0 auto!important;
+  grid-template-columns:repeat(5,minmax(0,1fr))!important;
+  align-items:stretch!important;
+  gap:16px!important;
+}
+.framer-ax4wqm .framer-3isaxa>.framer-1juld66-container,
+.framer-ax4wqm .framer-3isaxa>.ssr-variant{
+  display:block!important;
+  visibility:visible!important;
+  position:relative!important;
+  inset:auto!important;
+  width:100%!important;
+  max-width:none!important;
+  min-width:0!important;
+  height:100%!important;
+  overflow:hidden!important;
+}
+.framer-ax4wqm .framer-3isaxa>.framer-lhpwam,
+.framer-ax4wqm .framer-3isaxa>.ssr-variant:nth-last-child(2){
+  grid-column:1/-1!important;
+}
+.framer-ldvkx5 .framer-1llxfaq a[data-framer-name="Default"],
+.framer-ax4wqm .framer-3isaxa a[data-framer-name="Default"]{
+  display:flex!important;
+  flex-direction:column!important;
+  height:100%!important;
+  min-height:100%!important;
+  overflow:hidden!important;
+  border-radius:18px!important;
+}
+.framer-ldvkx5 .framer-1llxfaq [data-framer-name="Media"],
+.framer-ax4wqm .framer-3isaxa [data-framer-name="Media"]{
+  height:clamp(112px,12vw,158px)!important;
+  min-height:clamp(112px,12vw,158px)!important;
+}
+.framer-ldvkx5 .framer-1llxfaq [data-framer-name="Body"],
+.framer-ax4wqm .framer-3isaxa [data-framer-name="Body"]{
+  box-sizing:border-box!important;
+  display:flex!important;
+  flex:1 1 auto!important;
+  flex-direction:column!important;
+  padding:16px!important;
+}
+.framer-ldvkx5 .framer-1llxfaq h3,
+.framer-ax4wqm .framer-3isaxa h3{
+  font-size:clamp(14px,1.12vw,17px)!important;
+  line-height:1.25!important;
+  overflow-wrap:anywhere!important;
+}
+@media(max-width:1050px){
+  .framer-ldvkx5 .framer-1llxfaq,
+  .framer-ax4wqm .framer-3isaxa{
+    grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  }
+}
+@media(max-width:760px){
+  .framer-vunw5t [data-framer-name="Pricing Wrapper"]{
+    width:calc(100% - 32px)!important;
+    grid-template-columns:minmax(0,1fr)!important;
+    gap:14px!important;
+  }
+  .framer-vunw5t .framer-g1rrg6,
+  .framer-vunw5t .framer-grrwin,
+  .framer-vunw5t .framer-1kz66uo{
+    width:calc(100% - 32px)!important;
+  }
+  .framer-ldvkx5 .framer-1llxfaq,
+  .framer-ax4wqm .framer-3isaxa{
+    width:calc(100% - 32px)!important;
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    gap:12px!important;
+  }
+}
+@media(max-width:420px){
+  .framer-ldvkx5 .framer-1llxfaq,
+  .framer-ax4wqm .framer-3isaxa{
+    grid-template-columns:minmax(0,1fr)!important;
+  }
+}
