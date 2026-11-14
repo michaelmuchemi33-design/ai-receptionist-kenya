@@ -1,36 +1,39 @@
-/* Final correction: make both five-card industry groups consistent and give pricing cards their own full-width row. */
+/* Clean, targeted layout rules for the industries and pricing sections. */
+
+/* Industries 01–05: wide, consistent two-column cards on a light surface. */
 .framer-ldvkx5{
   box-sizing:border-box!important;
   width:100%!important;
+  padding:clamp(48px,6vw,80px) 0!important;
   background:#fff!important;
   color:#171717!important;
-  padding:clamp(44px,6vw,76px) 0!important;
 }
 .framer-ldvkx5 .framer-1h90jy4,
 .framer-ldvkx5 .framer-9ukwr8{
-  width:min(1120px,calc(100% - 48px))!important;
+  box-sizing:border-box!important;
+  width:min(1120px,calc(100% - 64px))!important;
   max-width:1120px!important;
-  margin-left:auto!important;
-  margin-right:auto!important;
+  margin-inline:auto!important;
 }
 .framer-ldvkx5 .framer-1llxfaq{
   display:grid!important;
-  width:min(1120px,calc(100% - 48px))!important;
+  box-sizing:border-box!important;
+  width:min(1120px,calc(100% - 64px))!important;
   max-width:1120px!important;
-  margin:30px auto 0!important;
+  margin:32px auto 0!important;
   grid-template-columns:repeat(2,minmax(0,1fr))!important;
   align-items:stretch!important;
-  gap:20px!important;
+  gap:24px!important;
 }
 .framer-ldvkx5 .framer-1llxfaq>.ssr-variant{
   display:block!important;
   position:relative!important;
-  visibility:visible!important;
-  opacity:1!important;
   width:100%!important;
   min-width:0!important;
   max-width:none!important;
   height:100%!important;
+  visibility:visible!important;
+  opacity:1!important;
 }
 .framer-ldvkx5 .framer-1llxfaq a[data-framer-name="Default"]{
   box-sizing:border-box!important;
@@ -47,8 +50,8 @@
   box-shadow:0 8px 24px rgba(20,20,20,.055)!important;
 }
 .framer-ldvkx5 .framer-1llxfaq [data-framer-name="Media"]{
-  height:clamp(170px,20vw,230px)!important;
-  min-height:clamp(170px,20vw,230px)!important;
+  height:clamp(180px,20vw,240px)!important;
+  min-height:clamp(180px,20vw,240px)!important;
   border-radius:14px!important;
   overflow:hidden!important;
 }
@@ -64,39 +67,42 @@
 .framer-ldvkx5 .framer-1llxfaq p{color:#171717!important}
 .framer-ldvkx5 .framer-1llxfaq p{line-height:1.65!important}
 
-/* The second industry block was exported on a dark surface; match it to the white/light section above. */
+/* Industries 06–10: use the actual card-list wrapper inside the dark section,
+   not the section's outer container or its title. */
 .framer-ax4wqm{
   box-sizing:border-box!important;
   width:100%!important;
-  padding:clamp(44px,6vw,76px) 0!important;
+  padding:clamp(48px,6vw,80px) 0!important;
   background:#f7f6f2!important;
   color:#171717!important;
 }
-.framer-ax4wqm .framer-14mx2je{
+.framer-ax4wqm>.framer-14mx2je{
+  box-sizing:border-box!important;
   width:100%!important;
   max-width:100%!important;
 }
 .framer-ax4wqm .framer-3isaxa{
   display:grid!important;
   box-sizing:border-box!important;
-  width:min(1120px,calc(100% - 48px))!important;
+  width:min(1120px,calc(100% - 64px))!important;
   max-width:1120px!important;
   margin:28px auto 0!important;
   grid-template-columns:repeat(2,minmax(0,1fr))!important;
   align-items:stretch!important;
-  gap:20px!important;
+  gap:24px!important;
 }
 .framer-ax4wqm .framer-3isaxa>.framer-1juld66-container,
 .framer-ax4wqm .framer-3isaxa>.ssr-variant{
   display:block!important;
   position:relative!important;
-  visibility:visible!important;
-  opacity:1!important;
+  box-sizing:border-box!important;
   width:100%!important;
   min-width:0!important;
   max-width:none!important;
   height:100%!important;
   overflow:visible!important;
+  visibility:visible!important;
+  opacity:1!important;
 }
 .framer-ax4wqm .framer-3isaxa>.framer-lhpwam{
   grid-column:1/-1!important;
@@ -119,8 +125,8 @@
   box-shadow:0 8px 24px rgba(20,20,20,.055)!important;
 }
 .framer-ax4wqm .framer-3isaxa [data-framer-name="Media"]{
-  height:clamp(170px,20vw,230px)!important;
-  min-height:clamp(170px,20vw,230px)!important;
+  height:clamp(180px,20vw,240px)!important;
+  min-height:clamp(180px,20vw,240px)!important;
   border-radius:14px!important;
   overflow:hidden!important;
 }
@@ -136,11 +142,19 @@
 .framer-ax4wqm .framer-3isaxa p{color:#171717!important}
 .framer-ax4wqm .framer-3isaxa p{line-height:1.65!important}
 
-/* Pricing: the exported card component must not be trapped inside the narrow heading width. */
-.framer-19wb3xk .framer-tx57ib{
-  display:block!important;
+/* Pricing: remove the narrow 400px copy column that was squeezing all three plans. */
+.framer-19wb3xk{
+  box-sizing:border-box!important;
   width:100%!important;
+}
+.framer-19wb3xk>.framer-tx57ib{
+  display:flex!important;
+  box-sizing:border-box!important;
+  flex:1 1 100%!important;
+  width:100%!important;
+  min-width:0!important;
   max-width:100%!important;
+  align-items:stretch!important;
 }
 .framer-19wb3xk .framer-1erld54-container{
   display:block!important;
@@ -161,8 +175,8 @@
   overflow:visible!important;
 }
 .framer-19wb3xk .framer-1erld54-container .framer-15pj0yu{
-  box-sizing:border-box!important;
   display:flex!important;
+  box-sizing:border-box!important;
   flex-direction:column!important;
   align-items:center!important;
   width:min(780px,calc(100% - 48px))!important;
@@ -174,23 +188,23 @@
   display:grid!important;
   box-sizing:border-box!important;
   position:relative!important;
-  width:min(1120px,calc(100% - 48px))!important;
+  width:min(1120px,calc(100% - 64px))!important;
   max-width:1120px!important;
-  margin:34px auto 0!important;
+  margin:36px auto 0!important;
   padding:0!important;
   grid-template-columns:repeat(3,minmax(0,1fr))!important;
   align-items:stretch!important;
-  gap:22px!important;
+  gap:24px!important;
   overflow:visible!important;
 }
-.framer-19wb3xk [data-framer-name="Pricing Wrapper"]>.framer-hANxd{
+.framer-19wb3xk [data-framer-name="Pricing Wrapper"]>[data-framer-name^="Pricing Card"]{
   display:flex!important;
   box-sizing:border-box!important;
   flex-direction:column!important;
   width:100%!important;
   min-width:0!important;
   max-width:none!important;
-  min-height:410px!important;
+  min-height:420px!important;
   height:auto!important;
   margin:0!important;
   padding:30px!important;
@@ -202,11 +216,11 @@
   opacity:1!important;
   visibility:visible!important;
 }
-.framer-19wb3xk [data-framer-name="Pricing Wrapper"]>.framer-hANxd:nth-child(2){
+.framer-19wb3xk [data-framer-name="Pricing Card Featured"]{
   border:2px solid #f07832!important;
   box-shadow:0 14px 34px rgba(240,120,50,.12)!important;
 }
-.framer-19wb3xk [data-framer-name="Pricing Wrapper"]>.framer-hANxd [data-framer-name="Body"]{
+.framer-19wb3xk [data-framer-name="Pricing Wrapper"] [data-framer-name="Body"]{
   display:flex!important;
   flex:1 1 auto!important;
   flex-direction:column!important;
@@ -242,24 +256,33 @@
   color:#171717!important;
   text-decoration:none!important;
 }
-.framer-19wb3xk .framer-u336du-container,
-.framer-19wb3xk .framer-v99pd0{display:none!important}
+/* The oversized "Pricing" artwork sits behind the plans; hide only that decorative layer. */
+.framer-19wb3xk .framer-u336du-container{display:none!important}
+
+/* Tablet and mobile: retain readable cards and avoid cramped two-column layouts. */
 @media(max-width:760px){
   .framer-ldvkx5 .framer-1h90jy4,
   .framer-ldvkx5 .framer-9ukwr8,
   .framer-ldvkx5 .framer-1llxfaq,
-  .framer-ax4wqm .framer-3isaxa{width:calc(100% - 32px)!important}
-  .framer-ldvkx5 .framer-1llxfaq,
-  .framer-ax4wqm .framer-3isaxa{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:12px!important}
-  .framer-ax4wqm{padding:40px 0!important}
+  .framer-ax4wqm .framer-3isaxa,
   .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{
-    width:calc(100% - 32px)!important;
-    grid-template-columns:minmax(0,1fr)!important;
+    width:calc(100% - 36px)!important;
+  }
+  .framer-ldvkx5 .framer-1llxfaq,
+  .framer-ax4wqm .framer-3isaxa{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
     gap:14px!important;
   }
-  .framer-19wb3xk [data-framer-name="Pricing Wrapper"]>.framer-hANxd{min-height:0!important}
+  .framer-ax4wqm{padding:42px 0!important}
+  .framer-19wb3xk [data-framer-name="Pricing Wrapper"]{
+    grid-template-columns:minmax(0,1fr)!important;
+    gap:16px!important;
+  }
+  .framer-19wb3xk [data-framer-name^="Pricing Card"]{min-height:0!important}
 }
-@media(max-width:440px){
+@media(max-width:480px){
   .framer-ldvkx5 .framer-1llxfaq,
-  .framer-ax4wqm .framer-3isaxa{grid-template-columns:minmax(0,1fr)!important}
+  .framer-ax4wqm .framer-3isaxa{
+    grid-template-columns:minmax(0,1fr)!important;
+  }
 }
