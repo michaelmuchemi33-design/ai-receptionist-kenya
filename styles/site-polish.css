@@ -435,3 +435,17 @@
       url("../images/BDY1xNGXOX3wYu7dak15kKcVprU.jpg") center/cover no-repeat!important;
   }
 }
+
+/* Consistent burnt-orange SVG interface icon treatment (logos and image assets stay untouched). */
+svg[role="presentation"]{
+  color:#c65a24!important;
+  --21h8s6:#c65a24!important;
+}
+svg[role="presentation"] path,
+svg[role="presentation"] circle,
+svg[role="presentation"] line,
+svg[role="presentation"] polyline,
+svg[role="presentation"] polygon,
+svg[role="presentation"] rect{
+  stroke:#c65a24!important;
+}
