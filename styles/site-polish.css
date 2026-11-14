@@ -273,3 +273,14 @@ a[href*="contact.html#appointment"]{text-decoration:none!important}
  .framer-1r2k0zs .framer-2bkwi0{grid-template-columns:minmax(0,1fr)!important}
  .framer-1cmht4j{width:calc(100% - 32px)!important}
 }
+
+
+/* Framer scroll-parallax values were exported as fixed inline offsets without their runtime.
+   Reset the two extreme offsets that created the large blank spaces on the homepage. */
+.framer-1se20gt .framer-1ghgvw6,
+.framer-1se20gt .framer-l0s3hi,
+.framer-16g4u8s .framer-atu078{transform:none!important;translate:none!important}
+.framer-1se20gt .framer-1ghgvw6,
+.framer-16g4u8s .framer-xsaibk{position:relative!important;inset:auto!important;min-height:0!important;overflow:hidden!important}
+.framer-1se20gt .framer-l0s3hi{position:relative!important;inset:auto!important;width:100%!important;max-width:100%!important}
+.framer-16g4u8s .framer-atu078{position:absolute!important;inset:0!important;width:100%!important;height:100%!important}
