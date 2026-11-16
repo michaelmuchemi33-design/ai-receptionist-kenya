@@ -76,7 +76,7 @@ function analytics(){
   if(!variant)variant=Math.random()<.5?"control":"treatment";
   try{localStorage.setItem(key,JSON.stringify({variant,assignedAt:Date.now()}))}catch(e){}
   const ctas=Array.from(document.querySelectorAll('a[href*="contact.html#appointment"]'));
-  ctas.forEach(a=>{const match=(a.textContent||"").trim().match(/Choose\\s+(Starter|Professional|Business Pro)/i);if(!match)return;const plan=match[1].toLowerCase().replace(/\\s+/g,"_");a.dataset.twigaPlan=plan;if(variant==="treatment")a.textContent="Request a demo ↗";a.addEventListener("click",()=>track("twiga_pricing_plan_click",{experiment_id:id,experiment_variant:variant,plan_name:plan}))});
+  ctas.forEach(a=>{const match=(a.textContent||"").trim().match(/Choose\s+(Starter|Professional|Business Pro)/i);if(!match)return;const plan=match[1].toLowerCase().replace(/\s+/g,"_");a.dataset.twigaPlan=plan;if(variant==="treatment")a.textContent="Request a demo ↗";a.addEventListener("click",()=>track("twiga_pricing_plan_click",{experiment_id:id,experiment_variant:variant,plan_name:plan}))});
   track("twiga_experiment_exposure",{experiment_id:id,experiment_variant:variant,page_type:"pricing"});
  }
  document.addEventListener("click",e=>{const a=e.target.closest("a[href]");if(!a)return;const href=a.href||"";if(a.hasAttribute("data-twiga-apk-download")||href.includes("/app-debug.apk"))track("twiga_apk_download_click",{build:"12"});else if(href.includes("app.twiga.co.ke")||href.includes("live.twiga.co.ke"))track("twiga_signup_click");else if(href.includes("demo.twiga.co.ke"))track("twiga_demo_click");else if(href.includes("wa.me"))track("twiga_whatsapp_click")});
