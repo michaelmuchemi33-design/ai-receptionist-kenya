@@ -25,6 +25,9 @@ for(const file of htmlFiles){
 }
 const requireText=(file,needle,label)=>{const s=fs.readFileSync(path.join(root,file),"utf8");if(!s.includes(needle))errors.push(label+" missing from "+file)};
 requireText("index.html","GTM-5CZQ9MJH","GTM container");
+requireText("index.html","Book a demo","visible hero demo-booking CTA");
+requireText("index.html","twiga-hero-download","hero Android download CTA");
+requireText("index.html","./pages/contact.html#appointment","hero demo-booking destination");
 requireText("pages/pricing.html","../scripts/site-interactions.js","pricing experiment script");
 requireText("pages/download.html","android-beta-2026-11-14-12/app-debug.apk","latest beta 12 APK link");
 requireText("pages/download.html","GTM-5CZQ9MJH","download-page analytics");
@@ -36,6 +39,8 @@ requireText("scripts/site-interactions.js","2592000000","30-day experiment assig
 requireText("scripts/site-interactions.js","twiga_pricing_plan_click","pricing CTA event");
 requireText("scripts/site-interactions.js","twiga_demo_request_submitted","demo conversion event");
 requireText("scripts/site-interactions.js","twiga_apk_download_click","APK download event");
+requireText("scripts/site-interactions.js","twiga_demo_booking_click","hero demo-booking event");
+requireText("scripts/site-interactions.js","twiga_apk_info_click","hero download-page event");
 requireText("privacy.html","Analytics, cookies and website testing","privacy disclosure");
 const sitemap=fs.readFileSync(path.join(root,"sitemap.xml"),"utf8");
 for(const m of sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)){
