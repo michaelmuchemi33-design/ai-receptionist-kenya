@@ -1,0 +1,24 @@
+{
+  "name": "TWIGA AI Receptionist",
+  "short_name": "TWIGA",
+  "description": "AI receptionist for Kenyan businesses. Answer customer calls, capture enquiries, manage bookings and follow up.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
