@@ -1,0 +1,961 @@
+TWIGA — 100-INDUSTRY SEO AND AI CONTENT MAP
+Website: https://twiga.co.ke/ | Market: Kenya | Reviewed: 21 November 2026
+
+PURPOSE
+This is a planning reference, not a ranking switch. Each industry is a potential audience segment. Do not publish a page just because a sector appears here. Validate the described workflow, interview a business owner or staff member, add original examples and publish only when the page is useful beyond a changed industry name.
+
+SEARCH INTENT GROUPS
+Commercial: AI receptionist Kenya; AI phone receptionist for business; AI receptionist pricing Kenya; AI receptionist for [industry] Kenya.
+Problem-aware: missed business calls; answer customer calls while busy; manage calls and bookings; capture leads from enquiries.
+Educational: what an AI receptionist does; how it works; AI receptionist versus human receptionist; prepare business information for AI setup.
+Local: create city/county content only when there is distinct local information and verified service relevance.
+
+PAGE MAP
+Homepage: Kenya-wide commercial intent.
+Pricing: trial, monthly plan, optional usage/provider costs and inclusions.
+How-it-works: business setup, approved knowledge, call flow and handover.
+Industry directory: navigation hub for all 100 sectors.
+Dedicated industry pages: only after original research and product evidence.
+Contact/demo: conversion route.
+Setup guide: business readiness and accurate data requirements.
+
+100 SECTOR BRIEFS
+[001] Hair salons
+Cluster: Beauty and personal care
+Caller context: Stylists are busy with clients while callers ask about services, prices, location, hours and appointment windows.
+Potential workflow: Collect service, preferred date/time, name and callback number; answer from the salon's approved service list.
+Handover boundary: Stylists confirm custom consultations, treatment suitability, allergies, custom prices and the actual appointment slot.
+Search phrase ideas: AI receptionist for hair salons in Kenya; business phone answering for hair salons; customer enquiry handling for hair salons.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[002] Barbershops
+Cluster: Beauty and personal care
+Caller context: Callers ask about cuts, fades, beard grooming, walk-ins, queue times and opening hours.
+Potential workflow: Capture service, walk-in or booking preference, preferred barber and callback details.
+Handover boundary: Barbers confirm queue position, wait time, special styles, price exceptions and changes to existing bookings.
+Search phrase ideas: AI receptionist for barbershops in Kenya; business phone answering for barbershops; customer enquiry handling for barbershops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[003] Beauty spas
+Cluster: Beauty and personal care
+Caller context: Customers ask about treatments, session length, packages, location and appointment availability.
+Potential workflow: Record treatment, preferred session, party size and contact details using approved descriptions.
+Handover boundary: Qualified staff confirm treatment suitability, contraindications, prices, deposits and availability.
+Search phrase ideas: AI receptionist for beauty spas in Kenya; business phone answering for beauty spas; customer enquiry handling for beauty spas.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[004] Nail studios
+Cluster: Beauty and personal care
+Caller context: Callers ask about manicures, pedicures, gel, extensions, nail art, removal and appointment duration.
+Potential workflow: Capture service, design notes, date, group size and customer contact.
+Handover boundary: Staff confirm complex designs, allergies, removal needs, quotes and appointment duration.
+Search phrase ideas: AI receptionist for nail studios in Kenya; business phone answering for nail studios; customer enquiry handling for nail studios.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[005] Massage practices
+Cluster: Beauty and personal care
+Caller context: Clients ask about massage types, session lengths, location, therapist availability and bookings.
+Potential workflow: Collect service, preferred session length, date range and callback details.
+Handover boundary: Practitioners handle injuries, pain, medical suitability, treatment advice and sensitive matters.
+Search phrase ideas: AI receptionist for massage practices in Kenya; business phone answering for massage practices; customer enquiry handling for massage practices.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[006] Make-up artists
+Cluster: Beauty and personal care
+Caller context: Customers enquire about bridal or event looks, trials, travel to venues, group size and dates.
+Potential workflow: Capture event date, venue/area, number of people, look requested and contact details.
+Handover boundary: The artist confirms products, travel charges, quotation, deposits and availability.
+Search phrase ideas: AI receptionist for make-up artists in Kenya; business phone answering for make-up artists; customer enquiry handling for make-up artists.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[007] Beauty and barber academies
+Cluster: Beauty and personal care
+Caller context: Prospective learners ask about courses, intakes, fees, entry requirements, class times and certificates.
+Potential workflow: Record course, learner contact, preferred intake and questions for admissions.
+Handover boundary: Admissions staff confirm accreditation, eligibility, places, payment terms and completion requirements.
+Search phrase ideas: AI receptionist for beauty and barber academies in Kenya; business phone answering for beauty and barber academies; customer enquiry handling for beauty and barber academies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[008] Laundry and dry-cleaning shops
+Cluster: Beauty and personal care
+Caller context: Customers ask about garment types, stains, turnaround, collection, delivery and opening hours.
+Potential workflow: Capture garment category, requested service, collection preference and callback details.
+Handover boundary: Staff inspect garments and confirm stain treatment, damage risk, final price and completion date.
+Search phrase ideas: AI receptionist for laundry and dry-cleaning shops in Kenya; business phone answering for laundry and dry-cleaning shops; customer enquiry handling for laundry and dry-cleaning shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[009] Tailors and alteration shops
+Cluster: Beauty and personal care
+Caller context: Callers ask about hemming, resizing, repairs, fittings, fabric work and deadlines.
+Potential workflow: Record garment type, alteration, required-by date and fitting preference.
+Handover boundary: The tailor confirms feasibility after inspection, measurements, price and completion date.
+Search phrase ideas: AI receptionist for tailors and alteration shops in Kenya; business phone answering for tailors and alteration shops; customer enquiry handling for tailors and alteration shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[010] Bridal boutiques
+Cluster: Beauty and personal care
+Caller context: Bridal customers ask about dress styles, fittings, accessories, group visits, alterations and delivery.
+Potential workflow: Capture event date, appointment preference, item category and party size.
+Handover boundary: Boutique staff verify stock, sizing, alteration scope, payment terms and delivery.
+Search phrase ideas: AI receptionist for bridal boutiques in Kenya; business phone answering for bridal boutiques; customer enquiry handling for bridal boutiques.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[011] Medical clinics
+Cluster: Healthcare administration
+Caller context: Calls concern location, departments, opening hours, appointment requests and front-desk contacts.
+Potential workflow: Collect service requested, preferred appointment window, caller name and callback details.
+Handover boundary: Do not diagnose, triage emergencies or recommend treatment. Clinical questions go to qualified staff.
+Search phrase ideas: AI receptionist for medical clinics in Kenya; business phone answering for medical clinics; customer enquiry handling for medical clinics.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[012] Dental practices
+Cluster: Healthcare administration
+Caller context: Callers ask about check-ups, cleaning, braces, tooth pain, family visits and clinic hours.
+Potential workflow: Capture routine visit or callback request, preferred time and service category.
+Handover boundary: Dental professionals handle symptoms, urgency, suitability, clinical advice and treatment plans.
+Search phrase ideas: AI receptionist for dental practices in Kenya; business phone answering for dental practices; customer enquiry handling for dental practices.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[013] Physiotherapy clinics
+Cluster: Healthcare administration
+Caller context: Customers ask about services, session length, location, referrals and appointment times.
+Potential workflow: Record service category, preferred time and callback details without detailed medical history.
+Handover boundary: Physiotherapists assess symptoms, injuries, suitability and clinical urgency.
+Search phrase ideas: AI receptionist for physiotherapy clinics in Kenya; business phone answering for physiotherapy clinics; customer enquiry handling for physiotherapy clinics.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[014] Diagnostic laboratories
+Cluster: Healthcare administration
+Caller context: Customers call about test availability, opening times, sample collection, locations, reports and preparation.
+Potential workflow: Capture test name if volunteered, branch, collection question and callback request.
+Handover boundary: Laboratory staff confirm preparation, test requirements, results, interpretation and privacy.
+Search phrase ideas: AI receptionist for diagnostic laboratories in Kenya; business phone answering for diagnostic laboratories; customer enquiry handling for diagnostic laboratories.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[015] Optical shops and optometrists
+Cluster: Healthcare administration
+Caller context: People enquire about eye tests, frames, lenses, repairs, hours and appointments.
+Potential workflow: Collect service requested, branch, appointment preference and contact details.
+Handover boundary: Optometrists handle vision symptoms, prescriptions, medical eye concerns and lens suitability.
+Search phrase ideas: AI receptionist for optical shops and optometrists in Kenya; business phone answering for optical shops and optometrists; customer enquiry handling for optical shops and optometrists.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[016] Veterinary clinics
+Cluster: Healthcare administration
+Caller context: Pet owners call about consultations, vaccinations, clinic hours, location and appointment requests.
+Potential workflow: Record animal type, reason category in the owner's words, preferred time and callback.
+Handover boundary: Veterinarians handle diagnosis, emergencies, medicine and treatment advice.
+Search phrase ideas: AI receptionist for veterinary clinics in Kenya; business phone answering for veterinary clinics; customer enquiry handling for veterinary clinics.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[017] Pharmacies
+Cluster: Healthcare administration
+Caller context: Customers ask about branch location, hours, prescription collection, stock and delivery.
+Potential workflow: Capture general enquiry, branch and callback details; pass stock checks to pharmacy staff.
+Handover boundary: Pharmacists handle medicine suitability, interactions, dosage, substitutions and medical advice.
+Search phrase ideas: AI receptionist for pharmacies in Kenya; business phone answering for pharmacies; customer enquiry handling for pharmacies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[018] Counselling and wellness centres
+Cluster: Healthcare administration
+Caller context: Callers ask about session formats, practitioner profiles, fees, confidentiality and appointments.
+Potential workflow: Collect contact preference, session type and scheduling request; offer discreet human callback.
+Handover boundary: Counsellors handle crisis situations, clinical suitability and confidential disclosures.
+Search phrase ideas: AI receptionist for counselling and wellness centres in Kenya; business phone answering for counselling and wellness centres; customer enquiry handling for counselling and wellness centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[019] Hospitals and specialist centres
+Cluster: Healthcare administration
+Caller context: Calls concern departments, visiting information, directions, appointment desks and administrative contacts.
+Potential workflow: Identify department or administrative purpose and route to published contact or staff team.
+Handover boundary: Emergency, patient-status, clinical and confidential-record requests go to authorised staff.
+Search phrase ideas: AI receptionist for hospitals and specialist centres in Kenya; business phone answering for hospitals and specialist centres; customer enquiry handling for hospitals and specialist centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[020] Rehabilitation and occupational therapy centres
+Cluster: Healthcare administration
+Caller context: Families ask about programmes, session times, location, assessments and specialist contacts.
+Potential workflow: Capture programme category, preferred contact time and callback details using non-clinical language.
+Handover boundary: Therapists decide suitability, clinical plans, patient-specific advice and safeguarding matters.
+Search phrase ideas: AI receptionist for rehabilitation and occupational therapy centres in Kenya; business phone answering for rehabilitation and occupational therapy centres; customer enquiry handling for rehabilitation and occupational therapy centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[021] Hotels
+Cluster: Accommodation and travel
+Caller context: Guests compare room types, check-in times, facilities, location, booking requests and reception contacts.
+Potential workflow: Capture stay dates, guest count, room preference and contact; check live availability only when connected.
+Handover boundary: Hotel staff confirm rooms, rates, cancellation terms, special requests and final reservations.
+Search phrase ideas: AI receptionist for hotels in Kenya; business phone answering for hotels; customer enquiry handling for hotels.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[022] Guesthouses and bed-and-breakfasts
+Cluster: Accommodation and travel
+Caller context: Guests ask about room options, breakfast, parking, check-in, location and dates.
+Potential workflow: Collect arrival/departure dates, guest count, preferences and callback details.
+Handover boundary: Host confirms availability, property rules, payment, special arrangements and pricing.
+Search phrase ideas: AI receptionist for guesthouses and bed-and-breakfasts in Kenya; business phone answering for guesthouses and bed-and-breakfasts; customer enquiry handling for guesthouses and bed-and-breakfasts.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[023] Safari lodges and camps
+Cluster: Accommodation and travel
+Caller context: Travellers ask about room/tent categories, season dates, activities, transfers and meals.
+Potential workflow: Record travel dates, party size, accommodation interest, transfer question and contact.
+Handover boundary: Lodge staff confirm rates, availability, park logistics, activities, safety and booking terms.
+Search phrase ideas: AI receptionist for safari lodges and camps in Kenya; business phone answering for safari lodges and camps; customer enquiry handling for safari lodges and camps.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[024] Tour operators
+Cluster: Accommodation and travel
+Caller context: Travellers ask about itinerary length, destinations, group size, dates, inclusions and custom tours.
+Potential workflow: Capture destination, dates, group size, interests and callback details for a consultant.
+Handover boundary: Consultant confirms itinerary, permits, transport, suppliers, prices and safety guidance.
+Search phrase ideas: AI receptionist for tour operators in Kenya; business phone answering for tour operators; customer enquiry handling for tour operators.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[025] Travel agencies
+Cluster: Accommodation and travel
+Caller context: Customers call about travel planning, ticket changes, holiday packages, documents and itineraries.
+Potential workflow: Collect destination, travel dates, service requested and callback details; route to consultant.
+Handover boundary: Agents confirm ticket rules, fares, visas, advisories, refunds and changes.
+Search phrase ideas: AI receptionist for travel agencies in Kenya; business phone answering for travel agencies; customer enquiry handling for travel agencies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[026] Car-rental firms
+Cluster: Accommodation and travel
+Caller context: Customers ask about vehicle categories, rental dates, pick-up points, deposits, driver requirements and delivery.
+Potential workflow: Capture vehicle preference, dates, pick-up location, driver contact and callback.
+Handover boundary: Staff confirm vehicle availability, licence checks, deposits, insurance and rental agreement.
+Search phrase ideas: AI receptionist for car-rental firms in Kenya; business phone answering for car-rental firms; customer enquiry handling for car-rental firms.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[027] Serviced apartments
+Cluster: Accommodation and travel
+Caller context: Guests enquire about length of stay, furnished units, amenities, bills, access and availability.
+Potential workflow: Record dates, guest count, area, unit preference and contact details.
+Handover boundary: Property team confirms units, rates, utilities, house rules and access.
+Search phrase ideas: AI receptionist for serviced apartments in Kenya; business phone answering for serviced apartments; customer enquiry handling for serviced apartments.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[028] Short-stay and holiday homes
+Cluster: Accommodation and travel
+Caller context: Callers ask about dates, bedrooms, facilities, location, capacity, check-in and house rules.
+Potential workflow: Collect dates, party size, rooms and essential questions for host.
+Handover boundary: Host confirms calendar, prices, deposits, identity checks, rules and acceptance.
+Search phrase ideas: AI receptionist for short-stay and holiday homes in Kenya; business phone answering for short-stay and holiday homes; customer enquiry handling for short-stay and holiday homes.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[029] Conference and retreat centres
+Cluster: Accommodation and travel
+Caller context: Organisers ask about meeting rooms, accommodation, catering, equipment, capacity and dates.
+Potential workflow: Capture event dates, participant estimate, room setup, catering and organiser contact.
+Handover boundary: Venue staff confirm capacity, schedule, packages, equipment and booking.
+Search phrase ideas: AI receptionist for conference and retreat centres in Kenya; business phone answering for conference and retreat centres; customer enquiry handling for conference and retreat centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[030] Airline and airport service desks
+Cluster: Accommodation and travel
+Caller context: Passengers need official contact routes for baggage, check-in, service desks, lost property and flight information.
+Potential workflow: Identify topic and direct caller to official published channel or staffed service desk.
+Handover boundary: Flight status, security, immigration, passenger records and operations decisions belong to staff.
+Search phrase ideas: AI receptionist for airline and airport service desks in Kenya; business phone answering for airline and airport service desks; customer enquiry handling for airline and airport service desks.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[031] Restaurants
+Cluster: Food and hospitality
+Caller context: Diners call during service about hours, menu items, location, table requests, takeaway and delivery.
+Potential workflow: Capture party size, preferred time, menu question and contact; use approved menu and connected ordering tools.
+Handover boundary: Staff confirm table availability, allergens, custom orders, stock, delivery timing and booking.
+Search phrase ideas: AI receptionist for restaurants in Kenya; business phone answering for restaurants; customer enquiry handling for restaurants.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[032] Cafés and coffee shops
+Cluster: Food and hospitality
+Caller context: Customers ask about hours, coffee options, food availability, seating, directions, Wi-Fi and group visits.
+Potential workflow: Record question, branch, party size and callback; share approved menu and facilities information.
+Handover boundary: Staff confirm current stock, allergens, group seating and special arrangements.
+Search phrase ideas: AI receptionist for cafés and coffee shops in Kenya; business phone answering for cafés and coffee shops; customer enquiry handling for cafés and coffee shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[033] Bakeries and cake shops
+Cluster: Food and hospitality
+Caller context: Customers ask about cake flavours, sizes, custom designs, collection dates, delivery and changes.
+Potential workflow: Capture occasion, date, size, flavour, design description and contact details.
+Handover boundary: Bakery confirms production capacity, ingredients, allergens, quote, deposit and order.
+Search phrase ideas: AI receptionist for bakeries and cake shops in Kenya; business phone answering for bakeries and cake shops; customer enquiry handling for bakeries and cake shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[034] Caterers
+Cluster: Food and hospitality
+Caller context: Organisers ask about menus, guest numbers, event location, dietary needs, equipment and quotations.
+Potential workflow: Collect date, guest estimate, location, meal format and callback details.
+Handover boundary: Caterers confirm menu feasibility, food-safety needs, staffing, travel, quote and agreement.
+Search phrase ideas: AI receptionist for caterers in Kenya; business phone answering for caterers; customer enquiry handling for caterers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[035] Food delivery kitchens
+Cluster: Food and hospitality
+Caller context: Customers call about menu availability, delivery zones, order status, collection and payment.
+Potential workflow: Capture order enquiry, delivery area, contact and order reference when supplied.
+Handover boundary: Staff verify availability, substitutions, delivery estimates, payment and refunds.
+Search phrase ideas: AI receptionist for food delivery kitchens in Kenya; business phone answering for food delivery kitchens; customer enquiry handling for food delivery kitchens.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[036] Ice-cream and dessert shops
+Cluster: Food and hospitality
+Caller context: Callers ask about flavours, tubs, party packs, hours, delivery and event orders.
+Potential workflow: Record product interest, quantity, collection date and contact details.
+Handover boundary: Staff confirm current flavours, stock, allergens, pricing and bulk orders.
+Search phrase ideas: AI receptionist for ice-cream and dessert shops in Kenya; business phone answering for ice-cream and dessert shops; customer enquiry handling for ice-cream and dessert shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[037] Butcheries and meat shops
+Cluster: Food and hospitality
+Caller context: Customers ask about cuts, quantities, preparation, bulk orders, delivery and hours.
+Potential workflow: Capture cut or product, estimated quantity, collection preference and contact.
+Handover boundary: Staff confirm freshness, stock, weight, price and food-handling questions.
+Search phrase ideas: AI receptionist for butcheries and meat shops in Kenya; business phone answering for butcheries and meat shops; customer enquiry handling for butcheries and meat shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[038] Greengrocers and produce shops
+Cluster: Food and hospitality
+Caller context: Customers enquire about seasonal produce, bulk quantities, market days, delivery and availability.
+Potential workflow: Record produce category, quantity, location and callback for stock confirmation.
+Handover boundary: Staff confirm supply, quality, exact weight, price and delivery.
+Search phrase ideas: AI receptionist for greengrocers and produce shops in Kenya; business phone answering for greengrocers and produce shops; customer enquiry handling for greengrocers and produce shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[039] Event venues and banquet halls
+Cluster: Food and hospitality
+Caller context: Event planners ask about dates, capacity, packages, catering, parking, equipment and viewing.
+Potential workflow: Capture event type, date, estimated guests, setup and organiser contact.
+Handover boundary: Venue staff confirm calendar, capacity, licences, price, deposit and contract.
+Search phrase ideas: AI receptionist for event venues and banquet halls in Kenya; business phone answering for event venues and banquet halls; customer enquiry handling for event venues and banquet halls.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[040] Mobile food vendors and food trucks
+Cluster: Food and hospitality
+Caller context: Customers ask where the vendor will be, menu details, event availability and private catering.
+Potential workflow: Collect event location, date, guest estimate and contact details.
+Handover boundary: Owner confirms live location, service area, menu, permits and event booking.
+Search phrase ideas: AI receptionist for mobile food vendors and food trucks in Kenya; business phone answering for mobile food vendors and food trucks; customer enquiry handling for mobile food vendors and food trucks.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[041] Real estate agencies
+Cluster: Property and building services
+Caller context: Property enquiries concern sales or rentals, location, bedrooms, viewings, price questions and agent contact.
+Potential workflow: Capture listing reference, area, rental or purchase interest, preferred viewing time and callback.
+Handover boundary: Agent verifies listing, availability, ownership, terms, negotiations and viewing.
+Search phrase ideas: AI receptionist for real estate agencies in Kenya; business phone answering for real estate agencies; customer enquiry handling for real estate agencies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[042] Property managers
+Cluster: Property and building services
+Caller context: Tenants and owners call about maintenance, rent, access, service charges and inspections.
+Potential workflow: Record property/unit reference, issue category, urgency as described and contact.
+Handover boundary: Managers verify tenancy records, approve repairs, disputes, balances and contractor dispatch.
+Search phrase ideas: AI receptionist for property managers in Kenya; business phone answering for property managers; customer enquiry handling for property managers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[043] Property developers
+Cluster: Property and building services
+Caller context: Buyers ask about project phases, unit types, show-house visits, payment plans and completion.
+Potential workflow: Capture project, unit category, buyer contact and viewing/callback preference.
+Handover boundary: Sales staff confirm status, inventory, contract, financing and completion dates.
+Search phrase ideas: AI receptionist for property developers in Kenya; business phone answering for property developers; customer enquiry handling for property developers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[044] Building contractors
+Cluster: Property and building services
+Caller context: Customers seek quotations for renovations, repairs, new builds, availability and site visits.
+Potential workflow: Collect location, project category, scope summary and site-visit preference.
+Handover boundary: Contractor inspects and confirms technical feasibility, safety, materials, cost and timeline.
+Search phrase ideas: AI receptionist for building contractors in Kenya; business phone answering for building contractors; customer enquiry handling for building contractors.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[045] Architects and design studios
+Cluster: Property and building services
+Caller context: Prospective clients ask about design services, portfolios, consultations, project stages and fees.
+Potential workflow: Record project type, location, stage and consultation request.
+Handover boundary: Architects confirm design advice, regulation, scope, fees and professional commitments.
+Search phrase ideas: AI receptionist for architects and design studios in Kenya; business phone answering for architects and design studios; customer enquiry handling for architects and design studios.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[046] Interior designers
+Cluster: Property and building services
+Caller context: Clients ask about room redesign, furniture sourcing, style consultations, budgets and site visits.
+Potential workflow: Capture room/property type, style, timeline and contact details.
+Handover boundary: Designers confirm materials, measurements, sourcing, costs and scope.
+Search phrase ideas: AI receptionist for interior designers in Kenya; business phone answering for interior designers; customer enquiry handling for interior designers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[047] Plumbers
+Cluster: Property and building services
+Caller context: Callers report leaks, blocked drains, installations, repairs and site estimates.
+Potential workflow: Collect location, issue type, access details and callback; route urgent water problems quickly.
+Handover boundary: Plumber assesses safety, cause, parts, cost and arrival window.
+Search phrase ideas: AI receptionist for plumbers in Kenya; business phone answering for plumbers; customer enquiry handling for plumbers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[048] Electrical contractors
+Cluster: Property and building services
+Caller context: Customers request electrical repairs, wiring, installations, inspections and emergency contact.
+Potential workflow: Capture property location, issue in caller's words and callback; route urgent hazards to a person.
+Handover boundary: Qualified electricians assess hazards, isolate power, diagnose and determine safe next steps.
+Search phrase ideas: AI receptionist for electrical contractors in Kenya; business phone answering for electrical contractors; customer enquiry handling for electrical contractors.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[049] Solar installers
+Cluster: Property and building services
+Caller context: Homeowners and businesses ask about solar systems, site surveys, product categories and installation.
+Potential workflow: Capture site type, location, intended use, broad energy requirements and consultation request.
+Handover boundary: Engineers confirm system design, load, roof suitability, compliance and quote.
+Search phrase ideas: AI receptionist for solar installers in Kenya; business phone answering for solar installers; customer enquiry handling for solar installers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[050] HVAC and refrigeration repair
+Cluster: Property and building services
+Caller context: Customers report air-conditioning, cold-room, fridge or ventilation issues and ask for a technician.
+Potential workflow: Record equipment type, location, symptoms and preferred service window.
+Handover boundary: Technicians assess refrigerant, electrical safety, parts, repairability and cost.
+Search phrase ideas: AI receptionist for hvac and refrigeration repair in Kenya; business phone answering for hvac and refrigeration repair; customer enquiry handling for hvac and refrigeration repair.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[051] Cleaning companies
+Cluster: Home and field services
+Caller context: Households and offices ask about one-off cleaning, regular schedules, deep cleaning, move-in work and coverage.
+Potential workflow: Collect property type, location, service category, approximate size and preferred date.
+Handover boundary: Supervisor confirms staff, supplies, access, quote, insurance and service time.
+Search phrase ideas: AI receptionist for cleaning companies in Kenya; business phone answering for cleaning companies; customer enquiry handling for cleaning companies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[052] Pest-control services
+Cluster: Home and field services
+Caller context: Callers ask about pest types, inspections, coverage, preparation and treatment schedules.
+Potential workflow: Capture property type, pest category, location and callback without offering treatment advice.
+Handover boundary: Qualified technicians advise on risks, chemicals, preparation, re-entry and safety.
+Search phrase ideas: AI receptionist for pest-control services in Kenya; business phone answering for pest-control services; customer enquiry handling for pest-control services.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[053] Security companies
+Cluster: Home and field services
+Caller context: Customers enquire about guards, alarms, patrols, CCTV, installation, coverage zones and quotations.
+Potential workflow: Record site type, location, requested service and safe callback method.
+Handover boundary: Security staff assess risk, quote services, discuss incidents and deployment.
+Search phrase ideas: AI receptionist for security companies in Kenya; business phone answering for security companies; customer enquiry handling for security companies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[054] Moving and relocation companies
+Cluster: Home and field services
+Caller context: Customers ask about household/office moves, packing, vehicle sizes, dates, distance and storage.
+Potential workflow: Capture origin, destination, date, property type and major item categories.
+Handover boundary: Moving team confirms survey, capacity, packing, insurance, price and schedule.
+Search phrase ideas: AI receptionist for moving and relocation companies in Kenya; business phone answering for moving and relocation companies; customer enquiry handling for moving and relocation companies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[055] Courier firms
+Cluster: Home and field services
+Caller context: Customers need parcel pick-up, delivery coverage, tracking, proof of delivery and business collection.
+Potential workflow: Record tracking number if supplied, parcel enquiry, destination and callback details.
+Handover boundary: Staff verify parcel status, identity, restrictions, claims and delivery exceptions.
+Search phrase ideas: AI receptionist for courier firms in Kenya; business phone answering for courier firms; customer enquiry handling for courier firms.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[056] Logistics and freight companies
+Cluster: Home and field services
+Caller context: Businesses ask about cargo movement, routes, warehousing, customs support, rates and shipment status.
+Potential workflow: Capture origin, destination, cargo type, load estimate and business contact.
+Handover boundary: Operations confirms rates, capacity, customs, insurance, transit and exceptions.
+Search phrase ideas: AI receptionist for logistics and freight companies in Kenya; business phone answering for logistics and freight companies; customer enquiry handling for logistics and freight companies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[057] Taxi and private transport operators
+Cluster: Home and field services
+Caller context: Passengers enquire about pick-up, destination, vehicle type, scheduled rides and corporate accounts.
+Potential workflow: Capture pickup, destination, passenger count, requested time and phone number.
+Handover boundary: Dispatch confirms vehicle, driver, fare, safety, wait time and ride acceptance.
+Search phrase ideas: AI receptionist for taxi and private transport operators in Kenya; business phone answering for taxi and private transport operators; customer enquiry handling for taxi and private transport operators.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[058] Driving schools
+Cluster: Home and field services
+Caller context: Learners ask about licence categories, lesson schedules, enrolment, instructors and fees.
+Potential workflow: Record licence category, learner contact, lesson time and branch.
+Handover boundary: School staff confirm course, instructor availability, exam requirements and fees.
+Search phrase ideas: AI receptionist for driving schools in Kenya; business phone answering for driving schools; customer enquiry handling for driving schools.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[059] Appliance repair firms
+Cluster: Home and field services
+Caller context: Customers call about washing machines, cookers, fridges, televisions, warranties and technician visits.
+Potential workflow: Collect appliance type, brand, broad fault, area and callback details.
+Handover boundary: Technicians confirm diagnosis, parts, warranty, repair cost and availability.
+Search phrase ideas: AI receptionist for appliance repair firms in Kenya; business phone answering for appliance repair firms; customer enquiry handling for appliance repair firms.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[060] Home and office IT support
+Cluster: Home and field services
+Caller context: Customers need computer support, networking, software setup, printers, security help and onsite visits.
+Potential workflow: Capture device category, home/business context, issue summary and safe callback.
+Handover boundary: Technicians handle passwords, remote access, security incidents, sensitive files and diagnosis.
+Search phrase ideas: AI receptionist for home and office it support in Kenya; business phone answering for home and office it support; customer enquiry handling for home and office it support.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[061] Supermarkets
+Cluster: Retail and commerce
+Caller context: Shoppers ask about branches, hours, product categories, bulk orders, delivery and customer service.
+Potential workflow: Capture branch, product enquiry, order/receipt reference and callback; query inventory only if connected.
+Handover boundary: Store staff verify stock, substitutions, refunds, prices, promotions and payment disputes.
+Search phrase ideas: AI receptionist for supermarkets in Kenya; business phone answering for supermarkets; customer enquiry handling for supermarkets.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[062] Grocery shops and mini-marts
+Cluster: Retail and commerce
+Caller context: Customers ask if products are stocked, delivery options, store hours and how to place orders.
+Potential workflow: Record product list, quantity, delivery/collection preference and customer contact.
+Handover boundary: Shop confirms stock, weights, total price, substitutions and delivery estimate.
+Search phrase ideas: AI receptionist for grocery shops and mini-marts in Kenya; business phone answering for grocery shops and mini-marts; customer enquiry handling for grocery shops and mini-marts.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[063] Fashion boutiques
+Cluster: Retail and commerce
+Caller context: Shoppers enquire about sizes, colours, styles, location, delivery, exchanges and new arrivals.
+Potential workflow: Capture product category, size/colour, contact and preferred branch.
+Handover boundary: Staff verify availability, fit, final price, returns and delivery.
+Search phrase ideas: AI receptionist for fashion boutiques in Kenya; business phone answering for fashion boutiques; customer enquiry handling for fashion boutiques.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[064] Electronics shops
+Cluster: Retail and commerce
+Caller context: Customers ask about phones, laptops, appliances, specifications, warranties, stock and repairs.
+Potential workflow: Record product/model, question and preferred contact.
+Handover boundary: Sales staff confirm specifications, compatibility, price, warranty, stock and claims.
+Search phrase ideas: AI receptionist for electronics shops in Kenya; business phone answering for electronics shops; customer enquiry handling for electronics shops.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[065] Furniture stores
+Cluster: Retail and commerce
+Caller context: Buyers enquire about beds, sofas, office furniture, materials, dimensions, delivery and custom orders.
+Potential workflow: Capture item, dimensions/style, delivery location and callback.
+Handover boundary: Staff verify materials, stock, lead time, delivery costs and quote.
+Search phrase ideas: AI receptionist for furniture stores in Kenya; business phone answering for furniture stores; customer enquiry handling for furniture stores.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[066] Hardware and building-supply stores
+Cluster: Retail and commerce
+Caller context: Builders and homeowners ask about tools, fittings, materials, quantities, delivery and trade pricing.
+Potential workflow: Collect item categories, quantities, project area and contact for stock quote.
+Handover boundary: Staff confirm technical compatibility, inventory, bulk pricing and delivery.
+Search phrase ideas: AI receptionist for hardware and building-supply stores in Kenya; business phone answering for hardware and building-supply stores; customer enquiry handling for hardware and building-supply stores.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[067] Mobile-phone shops and repair
+Cluster: Retail and commerce
+Caller context: Customers ask about phones, accessories, screen repairs, software issues, unlocks and turnaround.
+Potential workflow: Capture device make/model, service category, branch and contact.
+Handover boundary: Technicians handle device diagnosis, security, data access, warranty and estimates.
+Search phrase ideas: AI receptionist for mobile-phone shops and repair in Kenya; business phone answering for mobile-phone shops and repair; customer enquiry handling for mobile-phone shops and repair.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[068] Computer and electronics repair
+Cluster: Retail and commerce
+Caller context: Customers report laptop, desktop, printer and network issues and request repair assessment.
+Potential workflow: Record device type/model, broad symptoms and drop-off or callback preference.
+Handover boundary: Technicians handle data privacy, passwords, diagnosis, parts and repair costs.
+Search phrase ideas: AI receptionist for computer and electronics repair in Kenya; business phone answering for computer and electronics repair; customer enquiry handling for computer and electronics repair.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[069] Printing and signage businesses
+Cluster: Retail and commerce
+Caller context: Customers ask about business cards, banners, branded merchandise, file formats, quantities and deadlines.
+Potential workflow: Capture item, dimensions, quantity, deadline and contact.
+Handover boundary: Production team confirms artwork, proof, colours, material, quote and completion.
+Search phrase ideas: AI receptionist for printing and signage businesses in Kenya; business phone answering for printing and signage businesses; customer enquiry handling for printing and signage businesses.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[070] Wholesalers and distributors
+Cluster: Retail and commerce
+Caller context: Retailers ask about minimum orders, product lines, account opening, stock, delivery and invoices.
+Potential workflow: Capture business name, product category, quantity, delivery area and callback.
+Handover boundary: Sales verify price lists, credit terms, stock allocation, account status and dispatch.
+Search phrase ideas: AI receptionist for wholesalers and distributors in Kenya; business phone answering for wholesalers and distributors; customer enquiry handling for wholesalers and distributors.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[071] Manufacturers
+Cluster: Industry and agriculture
+Caller context: Buyers ask about specifications, minimum order quantities, lead times, samples, distribution and factory visits.
+Potential workflow: Collect product category, volume range, intended use, buyer organisation and contact.
+Handover boundary: Production and sales confirm specifications, capacity, compliance, price and delivery.
+Search phrase ideas: AI receptionist for manufacturers in Kenya; business phone answering for manufacturers; customer enquiry handling for manufacturers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[072] Agricultural input suppliers
+Cluster: Industry and agriculture
+Caller context: Farmers ask about seeds, tools, fertiliser categories, stockists, hours and delivery.
+Potential workflow: Record crop/product category, location, quantity and callback without recommending chemicals.
+Handover boundary: Qualified staff confirm suitability, label instructions, handling, stock and price.
+Search phrase ideas: AI receptionist for agricultural input suppliers in Kenya; business phone answering for agricultural input suppliers; customer enquiry handling for agricultural input suppliers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[073] Agrovets and animal-feed retailers
+Cluster: Industry and agriculture
+Caller context: Farmers ask about animal feed, farm supplies, delivery, branch location and availability.
+Potential workflow: Capture livestock type, product category, quantity and branch; pass product questions to staff.
+Handover boundary: Veterinary professionals handle animal health, medicine, dosage, suitability and safety.
+Search phrase ideas: AI receptionist for agrovets and animal-feed retailers in Kenya; business phone answering for agrovets and animal-feed retailers; customer enquiry handling for agrovets and animal-feed retailers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[074] Farm produce aggregators
+Cluster: Industry and agriculture
+Caller context: Farmers and buyers ask about produce grades, collection points, volumes, market days and delivery.
+Potential workflow: Record commodity, volume estimate, location, collection date and callback.
+Handover boundary: Buyer confirms grading, buying price, quality, demand and collection.
+Search phrase ideas: AI receptionist for farm produce aggregators in Kenya; business phone answering for farm produce aggregators; customer enquiry handling for farm produce aggregators.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[075] Dairy processors and milk collection centres
+Cluster: Industry and agriculture
+Caller context: Suppliers ask about collection times, locations, quality requirements, statements and payment queries.
+Potential workflow: Capture supplier identity, collection point and issue category; route quality/account questions.
+Handover boundary: Staff confirm test results, collection exceptions, price schedules and payment records.
+Search phrase ideas: AI receptionist for dairy processors and milk collection centres in Kenya; business phone answering for dairy processors and milk collection centres; customer enquiry handling for dairy processors and milk collection centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[076] Fisheries and seafood suppliers
+Cluster: Industry and agriculture
+Caller context: Restaurants and households ask about species, quantities, delivery, cold-chain and supply days.
+Potential workflow: Record product category, order estimate, destination and contact.
+Handover boundary: Staff confirm catch/stock, freshness, handling, price and delivery.
+Search phrase ideas: AI receptionist for fisheries and seafood suppliers in Kenya; business phone answering for fisheries and seafood suppliers; customer enquiry handling for fisheries and seafood suppliers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[077] Feed mills and livestock suppliers
+Cluster: Industry and agriculture
+Caller context: Farmers ask about feed types, animal categories, bag sizes, distribution and bulk supply.
+Potential workflow: Capture animal type, product line, quantity, location and customer contact.
+Handover boundary: Qualified staff confirm specifications, suitability, stock and price.
+Search phrase ideas: AI receptionist for feed mills and livestock suppliers in Kenya; business phone answering for feed mills and livestock suppliers; customer enquiry handling for feed mills and livestock suppliers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[078] Irrigation and farm-equipment suppliers
+Cluster: Industry and agriculture
+Caller context: Customers enquire about pumps, pipes, irrigation sets, parts, installation and farm visits.
+Potential workflow: Record farm location, equipment category, crop context and consultation need.
+Handover boundary: Technicians confirm sizing, water/electrical requirements, feasibility, warranty and quote.
+Search phrase ideas: AI receptionist for irrigation and farm-equipment suppliers in Kenya; business phone answering for irrigation and farm-equipment suppliers; customer enquiry handling for irrigation and farm-equipment suppliers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[079] Agricultural machinery dealers
+Cluster: Industry and agriculture
+Caller context: Farmers ask about tractors, implements, servicing, spare parts, financing and demonstrations.
+Potential workflow: Capture machine category/model, farm area and callback request.
+Handover boundary: Sales and service teams confirm features, stock, finance, parts and demonstration.
+Search phrase ideas: AI receptionist for agricultural machinery dealers in Kenya; business phone answering for agricultural machinery dealers; customer enquiry handling for agricultural machinery dealers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[080] Food processors and packaging businesses
+Cluster: Industry and agriculture
+Caller context: Business buyers ask about processing, packaging sizes, minimum runs, compliance and production windows.
+Potential workflow: Record product type, packaging requirement, volume estimate and buyer contact.
+Handover boundary: Operations verify food-safety compliance, specifications, capacity, rates and production slot.
+Search phrase ideas: AI receptionist for food processors and packaging businesses in Kenya; business phone answering for food processors and packaging businesses; customer enquiry handling for food processors and packaging businesses.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[081] Primary and secondary schools
+Cluster: Education and learning
+Caller context: Parents ask about admissions, location, term dates, fee schedules, uniforms and office hours.
+Potential workflow: Capture learner year/class, parent contact and admissions topic.
+Handover boundary: School staff confirm fees, admissions decisions, safeguarding, learner records and policy.
+Search phrase ideas: AI receptionist for primary and secondary schools in Kenya; business phone answering for primary and secondary schools; customer enquiry handling for primary and secondary schools.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[082] Colleges and TVET institutions
+Cluster: Education and learning
+Caller context: Prospective students enquire about courses, intakes, entry requirements, fees and campus location.
+Potential workflow: Record course interest, preferred intake, qualification level and callback contact.
+Handover boundary: Admissions confirm accreditation, eligibility, places, fees and official application steps.
+Search phrase ideas: AI receptionist for colleges and tvet institutions in Kenya; business phone answering for colleges and tvet institutions; customer enquiry handling for colleges and tvet institutions.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[083] Universities
+Cluster: Education and learning
+Caller context: Applicants and students ask about faculties, admissions, programmes, campus services and offices.
+Potential workflow: Identify faculty/service desk, applicant category and callback details.
+Handover boundary: University staff handle admissions decisions, student records, results, finance and academic advice.
+Search phrase ideas: AI receptionist for universities in Kenya; business phone answering for universities; customer enquiry handling for universities.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[084] Tutoring centres
+Cluster: Education and learning
+Caller context: Parents enquire about subjects, class levels, lesson formats, timetables, location and trial sessions.
+Potential workflow: Capture learner level, subject, format, schedule and parent contact.
+Handover boundary: Tutors confirm placement, progress, learning needs, availability and fees.
+Search phrase ideas: AI receptionist for tutoring centres in Kenya; business phone answering for tutoring centres; customer enquiry handling for tutoring centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[085] Daycare and childcare centres
+Cluster: Education and learning
+Caller context: Parents ask about age groups, hours, meals, routines, enrolment, pick-up rules and visits.
+Potential workflow: Collect age band only if needed, parent contact, visit request and general questions.
+Handover boundary: Staff handle safeguarding, allergies, medical information, permissions and child records.
+Search phrase ideas: AI receptionist for daycare and childcare centres in Kenya; business phone answering for daycare and childcare centres; customer enquiry handling for daycare and childcare centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[086] Music schools
+Cluster: Education and learning
+Caller context: Learners ask about instruments, class levels, lesson times, instructors, practice facilities and fees.
+Potential workflow: Capture instrument interest, experience level and preferred lesson times.
+Handover boundary: Teachers confirm assessment, class, instrument availability, schedule and fee.
+Search phrase ideas: AI receptionist for music schools in Kenya; business phone answering for music schools; customer enquiry handling for music schools.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[087] Sports academies
+Cluster: Education and learning
+Caller context: Parents ask about age groups, sport programmes, trials, training locations, equipment and schedules.
+Potential workflow: Record sport, age category, session preference, parent contact and trial request.
+Handover boundary: Coaches confirm selection, physical suitability, safety, fixtures and enrolment.
+Search phrase ideas: AI receptionist for sports academies in Kenya; business phone answering for sports academies; customer enquiry handling for sports academies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[088] Professional training providers
+Cluster: Education and learning
+Caller context: Companies and individuals enquire about courses, workshops, certifications, dates and corporate training.
+Potential workflow: Capture topic, learner count, dates, delivery format and organisation contact.
+Handover boundary: Training staff confirm trainers, accreditation, outcomes, fees and availability.
+Search phrase ideas: AI receptionist for professional training providers in Kenya; business phone answering for professional training providers; customer enquiry handling for professional training providers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[089] Examination and assessment centres
+Cluster: Education and learning
+Caller context: Applicants ask about assessment days, booking rules, documents, location and result collection.
+Potential workflow: Record examination category and direct the caller to official published instructions.
+Handover boundary: Authorised staff handle eligibility, official results, changes and regulatory questions.
+Search phrase ideas: AI receptionist for examination and assessment centres in Kenya; business phone answering for examination and assessment centres; customer enquiry handling for examination and assessment centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[090] Libraries and learning centres
+Cluster: Education and learning
+Caller context: Visitors ask about hours, memberships, facilities, study rooms, book availability and events.
+Potential workflow: Capture enquiry, requested facility and preferred visit window.
+Handover boundary: Staff confirm memberships, reservations, overdue balances, access and collection.
+Search phrase ideas: AI receptionist for libraries and learning centres in Kenya; business phone answering for libraries and learning centres; customer enquiry handling for libraries and learning centres.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[091] Law firms
+Cluster: Professional and financial services
+Caller context: Prospective clients ask about practice areas, consultations, office location, documents and appointment availability.
+Potential workflow: Capture general matter category, location, consultation preference and safe callback details; no detailed case facts.
+Handover boundary: A qualified lawyer handles legal advice, conflicts checks, confidential facts, fee quotes and deadlines.
+Search phrase ideas: AI receptionist for law firms in Kenya; business phone answering for law firms; customer enquiry handling for law firms.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[092] Accounting firms
+Cluster: Professional and financial services
+Caller context: Businesses ask about bookkeeping, accounts, payroll, tax returns, audits and consultations.
+Potential workflow: Record business type, service category, reporting period and owner contact.
+Handover boundary: Accountants confirm scope, records, advice, filing duties, deadlines and fees.
+Search phrase ideas: AI receptionist for accounting firms in Kenya; business phone answering for accounting firms; customer enquiry handling for accounting firms.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[093] Tax advisory firms
+Cluster: Professional and financial services
+Caller context: Clients ask about filing assistance, deadlines, records, consultations and status updates.
+Potential workflow: Capture individual/business enquiry type, service and callback details.
+Handover boundary: Tax professionals provide interpretations, liability estimates, filing decisions and regulatory advice.
+Search phrase ideas: AI receptionist for tax advisory firms in Kenya; business phone answering for tax advisory firms; customer enquiry handling for tax advisory firms.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[094] Insurance brokers
+Cluster: Professional and financial services
+Caller context: Callers ask about motor, medical, property and business insurance categories, renewals and claims.
+Potential workflow: Record policy category, renewal/claim enquiry and contact preference; avoid policy data without a secure workflow.
+Handover boundary: Licensed advisers explain cover, exclusions, suitability, claims decisions and policy terms.
+Search phrase ideas: AI receptionist for insurance brokers in Kenya; business phone answering for insurance brokers; customer enquiry handling for insurance brokers.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[095] SACCOs and cooperatives
+Cluster: Professional and financial services
+Caller context: Members call about branch information, membership, loan categories, deposits, statements and meeting dates.
+Potential workflow: Identify service enquiry and callback request; route account-specific queries securely.
+Handover boundary: Staff verify identity and handle balances, account records, credit eligibility, rates and advice.
+Search phrase ideas: AI receptionist for saccos and cooperatives in Kenya; business phone answering for saccos and cooperatives; customer enquiry handling for saccos and cooperatives.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[096] Microfinance institutions
+Cluster: Professional and financial services
+Caller context: Customers ask about branches, application steps, product categories, repayments and support.
+Potential workflow: Capture enquiry type, location and callback without requesting PINs or credentials.
+Handover boundary: Authorised staff explain lending terms, eligibility, affordability, account details and complaints.
+Search phrase ideas: AI receptionist for microfinance institutions in Kenya; business phone answering for microfinance institutions; customer enquiry handling for microfinance institutions.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[097] Banks and financial institutions
+Cluster: Professional and financial services
+Caller context: Customers need official contact routes, branch details, hours, card support and appointments.
+Potential workflow: Route to published official channels; record callback only through an approved workflow.
+Handover boundary: Never request PINs, passwords, OTPs or full card details. Bank staff handle identity, balances, fraud and transactions.
+Search phrase ideas: AI receptionist for banks and financial institutions in Kenya; business phone answering for banks and financial institutions; customer enquiry handling for banks and financial institutions.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[098] Management consultants
+Cluster: Professional and financial services
+Caller context: Business owners enquire about strategy workshops, operations reviews, scope, sectors and consultations.
+Potential workflow: Capture organisation, challenge category, meeting preference and contact details.
+Handover boundary: Consultants confirm methodology, deliverables, confidentiality, scope and fees.
+Search phrase ideas: AI receptionist for management consultants in Kenya; business phone answering for management consultants; customer enquiry handling for management consultants.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[099] Marketing and advertising agencies
+Cluster: Professional and financial services
+Caller context: Prospects enquire about campaigns, web design, branding, social media, media budgets and timelines.
+Potential workflow: Record service, organisation, target date and preferred contact.
+Handover boundary: Agency confirms scope, platform access, creative direction, media budget and performance commitments.
+Search phrase ideas: AI receptionist for marketing and advertising agencies in Kenya; business phone answering for marketing and advertising agencies; customer enquiry handling for marketing and advertising agencies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+[100] Recruitment agencies
+Cluster: Professional and financial services
+Caller context: Employers ask about hiring support, role types, candidate sourcing, timelines and fees.
+Potential workflow: Capture employer/candidate status, role category and safe callback details.
+Handover boundary: Recruiters handle CVs, privacy, hiring decisions, salary negotiation and contracts.
+Search phrase ideas: AI receptionist for recruitment agencies in Kenya; business phone answering for recruitment agencies; customer enquiry handling for recruitment agencies.
+Questions to answer: What do customers ask before visiting or booking? Which details should be captured? Which prices/availability need confirmation? What sensitive details must not be collected?
+Unique research needed: verify real caller questions, service systems, coverage area, language and staff handover with a business in this sector.
+
+
+PAGE TEMPLATE
+1. Direct answer in the opening paragraph.
+2. Who calls and why, with Kenyan business context.
+3. Real customer questions validated with an owner/staff member.
+4. Business facts the owner should supply.
+5. Example call from greeting to request capture.
+6. What TWIGA can say using approved data.
+7. What requires a human or verified live system.
+8. Privacy, safety and escalation boundaries.
+9. Provider and phone-line activation requirements.
+10. Honest FAQ and useful CTA.
+
+QUALITY RULES
+- One main search intent per page.
+- Do not make all pages target the exact same phrase.
+- Each page needs unique scenarios, checklist, handover, FAQs and examples.
+- Use verified local facts; do not fabricate testimonials, rankings or availability.
+- Avoid mass-created near-duplicate industry and city pages.
+- Keep titles, meta descriptions and canonical URLs unique.
+- Make primary content crawlable HTML.
+
+TECHNICAL CHECKLIST
+- Canonical URL returns HTTP 200 and is indexable.
+- Sitemap contains canonical, working pages only.
+- robots.txt allows intended crawling.
+- New pages are internally linked from relevant hubs.
+- One H1, clear headings, unique title and description.
+- Important text is HTML, not embedded in images or client-only content.
+- JSON-LD matches visible content; do not add fake reviews.
+- Mobile, accessibility and performance are checked.
+- Verify sc-domain:twiga.co.ke in Search Console and submit the sitemap.
+- Measure queries, clicks, impressions, CTR, position and qualified enquiries.
+
+GOOGLE AND AI SEARCH
+Google Search Central says useful people-first content and crawlable site structure remain the foundation for AI Search features. Google explicitly says llms.txt and similar special files do not improve or harm Google rankings and are ignored by Google Search. They are optional reference files for systems that choose to read them, not ranking hacks.
+
+MEASUREMENT
+Project notes previously indicated Search Console may still be connected to unity-software.online rather than twiga.co.ke. Verify property ownership before trusting query data. Once connected, use page/query data to prioritise high-impression terms, low-CTR pages and positions 5–20. Track demos, workspace starts, completed setup, verified phone activation and paid conversion.
