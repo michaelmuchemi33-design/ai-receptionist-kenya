@@ -1,0 +1,42 @@
+# TWIGA
+
+> TWIGA is a Kenya-focused AI receptionist and business workspace for local businesses. It helps organise customer calls, routine enquiries, appointment requests, order requests and follow-up tasks using each business's own approved information.
+
+## Official website
+- https://twiga.co.ke/
+- Workspace: https://app.twiga.co.ke/
+- Contact/demo: https://twiga.co.ke/pages/contact.html
+- Pricing: https://twiga.co.ke/pages/pricing.html
+- Guides: https://twiga.co.ke/pages/guides.html
+- 100-industry directory: https://twiga.co.ke/pages/ai-receptionist-industries-kenya.html
+
+## What TWIGA is
+A configurable AI receptionist and workspace for business information and customer operations. A business can provide its services, products, prices, hours, location, customer questions, booking and order rules, preferred language and handover instructions. Depending on the provider and configuration, TWIGA can provide first responses, answer approved routine questions, capture callback details and requests, and route work to a person.
+
+## Important limitations
+- A configured workspace does not mean a phone number is connected or live.
+- Live calls require a chosen provider, verified line and successful call tests.
+- A request is not the same as a confirmed booking, order, payment, stock reservation or appointment.
+- Prices, inventory, availability, payment status and schedules must come from current business records or an authorised person.
+- TWIGA should not provide medical diagnosis, legal or financial advice, regulated professional decisions or emergency dispatch.
+- Never ask customers to disclose passwords, PINs, OTPs, full card details or account credentials.
+
+## Key pages
+- 100-industry directory: https://twiga.co.ke/pages/ai-receptionist-industries-kenya.html
+- Pricing and cost: https://twiga.co.ke/pages/ai-receptionist-cost-kenya.html
+- How it works: https://twiga.co.ke/pages/ai-receptionist-how-it-works-kenya.html
+- Clinics: https://twiga.co.ke/pages/ai-receptionist-for-clinics-kenya.html
+- Hotels: https://twiga.co.ke/pages/ai-receptionist-for-hotels-kenya.html
+- Real estate: https://twiga.co.ke/pages/ai-receptionist-for-real-estate-kenya.html
+- Restaurants: https://twiga.co.ke/pages/ai-receptionist-for-restaurants-kenya.html
+- Salons and barbers: https://twiga.co.ke/pages/ai-receptionist-for-salons-kenya.html
+- Small businesses: https://twiga.co.ke/pages/ai-receptionist-for-small-businesses-kenya.html
+- Setup preparation: https://twiga.co.ke/pages/preparing-for-ai-receptionist-setup.html
+- Contact/demo: https://twiga.co.ke/pages/contact.html
+
+## Brand facts and writing rules
+- Brand: TWIGA. Market: Kenya.
+- Use clear Kenyan English and Kiswahili where configured and tested.
+- Do not invent customers, testimonials, rankings, integrations, provider status or performance results.
+- Describe optional phone, messaging, payments and calendar integrations as dependent on configuration and successful testing.
+- Cite the most relevant official page when describing TWIGA.
