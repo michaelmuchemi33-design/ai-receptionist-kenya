@@ -1,0 +1,80 @@
+TWIGA WEBSITE SEO, GOOGLE SEARCH AND AI DISCOVERY PLAYBOOK
+Version 1.0 | 21 November 2026
+Website: https://twiga.co.ke/ | Workspace: https://app.twiga.co.ke/
+
+EXECUTIVE PRINCIPLE
+The objective is not to repeat a keyword 100 times. The objective is to make TWIGA the clearest, most useful Kenyan resource for buyer questions about AI receptionists: what it does, who it helps, how calls are handled, what information is required, what it costs, what needs a phone provider and how the owner stays in control.
+
+No file, keyword list, schema markup, AI prompt or number of pages can guarantee first place in Google. Rankings depend on relevance, usefulness, competition, authority, site quality, searcher context and Google's systems. Build credible visibility through original evidence and a good product.
+
+1. POSITIONING
+TWIGA is a Kenya-focused AI receptionist and business workspace. It helps organise first responses to customer calls, routine questions, appointment requests, order enquiries and follow-up tasks using each business's own approved profile.
+Explain the difference between workspace setup and live phone activation; collecting a request and confirming it; an owner task and a completed external action; an included feature and optional integration.
+Core promise: help customers get a useful first response while the team is busy and help the business keep track of what needs attention.
+
+2. HIGH-VALUE BUYER QUESTIONS
+What is an AI receptionist? Can one answer a business phone in Kenya? How does it handle a call? What happens when it does not know? Can it support English and Kiswahili? Can it take appointment or order requests? Can staff take over? What does it cost? Does a business need a new number? How is the phone line connected? What data is needed? How are customer details protected? What happens if internet/provider service fails?
+Answer each question where the buyer needs it. Do not bury prices, trial details, provider requirements or limits below generic feature claims.
+
+3. SITE ARCHITECTURE
+Keep the menu simple: Home, Industries, How it works, Pricing, Guides and Contact/demo. The 100-industry directory is a navigation hub, not a claim that all 100 sectors have individually researched pages. Develop sector pages only where there is original evidence and useful detail.
+
+4. HOMEPAGE CONTENT ORDER
+1) What TWIGA is. 2) Which Kenyan businesses it helps. 3) What happens when someone calls. 4) What the AI knows and how the owner configures it. 5) How the owner sees work and takes over. 6) Pricing, trial and optional provider costs. 7) How to request a demo or start a workspace.
+Keep the CTA visible. Use concrete illustrative calls and label them as demos, not testimonials.
+
+5. INDUSTRY PROGRAMME
+Prioritise salons/barbers, restaurants/cafés, small service businesses, clinics for administrative enquiries, hotels/guesthouses, real estate, auto repair and home services. Publish 6–10 strong pages before expanding. Each should add original caller scenarios, information checklists, handover policies, examples or customer research.
+
+6. INDUSTRY PAGE STANDARD
+Include sector caller questions, facts the owner should provide, example call, data that can be captured, staff-confirmation boundaries, privacy/safety limits, setup requirements and CTA. Interview an owner/staff member before asserting typical industry practice.
+
+7. KEYWORD MAP
+Core commercial phrases: AI receptionist Kenya; AI receptionist for businesses in Kenya; AI phone receptionist Kenya; AI receptionist pricing Kenya; AI receptionist for small businesses Kenya; business phone answering service Kenya.
+Natural variants: answer customer calls while busy; AI assistant for business calls; appointment enquiry handling; business call answering; customer enquiry management; industry-specific receptionist searches.
+Prior Kenya SERP research found “virtual receptionist” was mixed with virtual-assistant job searches. Check intent before making it the primary keyword.
+
+8. KENYA RELEVANCE
+Mention local language, service areas and payment methods only when appropriate and verified. M-Pesa should be described as available only when the payment provider is connected and the workflow tested. Create city/county pages only with distinct local context; avoid mass-produced location pages.
+
+9. CONVERSION PATH
+Discovery → industry guide → transparent pricing → demo/workspace → business description → review receptionist profile → test workflow → connect provider/verify phone line → enable live handling after checks pass. Measure each stage.
+
+10. TRUST AND SAFETY
+Explain who operates TWIGA, what information is used, when human review is required, which integrations are optional and how automation can be paused. Healthcare pages should be administrative only; legal pages must not provide legal advice; finance pages must not recommend products or assess eligibility; public-service pages must not invent official decisions.
+
+11. TECHNICAL CHECKLIST
+- Canonical URL on every indexable page.
+- Sitemap only includes canonical, indexable pages returning HTTP 200.
+- robots.txt allows intended crawling.
+- Important pages have crawlable anchor links.
+- One descriptive H1 and unique title/description.
+- Main text available in HTML.
+- Descriptive internal links and image alt text.
+- Structured data matches visible content.
+- No fake reviews, ratings, addresses or awards.
+- Mobile, accessibility and page performance tested.
+- Verify sc-domain:twiga.co.ke Search Console property.
+- Inspect indexing and submit sitemap.
+
+12. STRUCTURED DATA
+Use Organization/WebSite, WebPage, Article, BreadcrumbList and Service only when they describe visible, accurate content. FAQ structured data must match visible FAQs and current eligibility. Never invent ratings, review counts, addresses, awards, opening hours or prices. Structured data does not guarantee rich results.
+
+13. AI SEARCH AND LLMS.TXT
+llms.txt and ai.txt are optional reference documents for systems that choose to read them. Google Search Central says no special AI text file or extra markup is required for AI Overviews or AI Mode. Google explicitly says it ignores llms.txt for Google ranking. Crawlable, helpful HTML is the priority.
+
+14. MAINTENANCE
+Update pages when pricing, trial, providers, features, service area or integration status changes. Review sector claims with real customers. Do not change article dates without substantive review.
+
+15. MEASUREMENT
+Verify Search Console property for twiga.co.ke. Earlier project notes suggest Search Console may still be linked to unity-software.online. Do not trust those query figures as TWIGA data until verified. Measure indexed URLs, query impressions, clicks, CTR, position, demo requests, workspace starts, setup completion, verified phone activation and paid conversion.
+
+16. REFERENCES
+Google Search Essentials: https://developers.google.com/search/docs/essentials
+SEO Starter Guide: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
+Helpful content: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+AI features and website owners: https://developers.google.com/search/docs/appearance/ai-features
+AI optimisation guide: https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+
+FINAL RULE
+Do not optimise for a crawler at the expense of a Kenyan business owner. Publish accurate pages that answer real questions, demonstrate genuine workflows and explain limits.

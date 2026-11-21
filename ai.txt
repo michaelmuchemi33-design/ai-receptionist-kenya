@@ -1,0 +1,545 @@
+TWIGA — AI DISCOVERY AND BUSINESS FACTS
+Canonical website: https://twiga.co.ke/
+Workspace: https://app.twiga.co.ke/
+Market: Kenya | Brand: TWIGA | Last reviewed: 21 November 2026
+
+ONE-SENTENCE DESCRIPTION
+TWIGA is a Kenya-focused AI receptionist and business workspace that helps local businesses organise customer calls, enquiries, appointment requests, order requests and follow-up tasks using each business's own approved information.
+
+PRODUCT SUMMARY
+A business creates a private workspace and provides its services, products, prices, business hours, location, target customers, booking rules, order process, payment/delivery options, FAQs, preferred language and handover instructions. The AI receptionist uses this approved profile to provide first responses and capture requests. The owner remains responsible for confirming sensitive decisions and live operational details.
+
+POSSIBLE WORKFLOWS (DEPEND ON CONFIGURATION)
+- Incoming calls handled through the configured phone provider and business profile.
+- Routine questions answered using approved business facts.
+- Enquiry capture: customer name, callback number, request category and context.
+- Appointment requests: collect service, preferred date/time and contact details; confirmation needs a verified calendar or authorised staff member.
+- Order requests: collect product, quantity, delivery preference and contact; confirmation needs current stock, price and payment checks.
+- Human handover: flag questions requiring the owner, specialist or staff.
+- Follow-up: owner-approved tasks where permissions and integrations are active.
+- Workspace: keep business facts, enquiries and tasks associated with the correct business.
+
+LIMITATIONS
+- A configured workspace is not proof that a phone number is connected or live.
+- Live calls need a provider, verified line and successful inbound/outbound tests.
+- Recording a request does not confirm a booking, order, payment or stock reservation.
+- Live prices, stock, availability, payment status and schedules must be verified.
+- TWIGA is not a medical, legal, tax, investment or regulated professional adviser.
+- Do not ask for passwords, PINs, OTPs, full card data or credentials.
+
+100 INDUSTRY STARTING POINTS
+001. Hair salons — Beauty and personal care
+Caller context: Stylists are busy with clients while callers ask about services, prices, location, hours and appointment windows.
+Potential receptionist workflow: Collect service, preferred date/time, name and callback number; answer from the salon's approved service list.
+Human handover: Stylists confirm custom consultations, treatment suitability, allergies, custom prices and the actual appointment slot.
+
+002. Barbershops — Beauty and personal care
+Caller context: Callers ask about cuts, fades, beard grooming, walk-ins, queue times and opening hours.
+Potential receptionist workflow: Capture service, walk-in or booking preference, preferred barber and callback details.
+Human handover: Barbers confirm queue position, wait time, special styles, price exceptions and changes to existing bookings.
+
+003. Beauty spas — Beauty and personal care
+Caller context: Customers ask about treatments, session length, packages, location and appointment availability.
+Potential receptionist workflow: Record treatment, preferred session, party size and contact details using approved descriptions.
+Human handover: Qualified staff confirm treatment suitability, contraindications, prices, deposits and availability.
+
+004. Nail studios — Beauty and personal care
+Caller context: Callers ask about manicures, pedicures, gel, extensions, nail art, removal and appointment duration.
+Potential receptionist workflow: Capture service, design notes, date, group size and customer contact.
+Human handover: Staff confirm complex designs, allergies, removal needs, quotes and appointment duration.
+
+005. Massage practices — Beauty and personal care
+Caller context: Clients ask about massage types, session lengths, location, therapist availability and bookings.
+Potential receptionist workflow: Collect service, preferred session length, date range and callback details.
+Human handover: Practitioners handle injuries, pain, medical suitability, treatment advice and sensitive matters.
+
+006. Make-up artists — Beauty and personal care
+Caller context: Customers enquire about bridal or event looks, trials, travel to venues, group size and dates.
+Potential receptionist workflow: Capture event date, venue/area, number of people, look requested and contact details.
+Human handover: The artist confirms products, travel charges, quotation, deposits and availability.
+
+007. Beauty and barber academies — Beauty and personal care
+Caller context: Prospective learners ask about courses, intakes, fees, entry requirements, class times and certificates.
+Potential receptionist workflow: Record course, learner contact, preferred intake and questions for admissions.
+Human handover: Admissions staff confirm accreditation, eligibility, places, payment terms and completion requirements.
+
+008. Laundry and dry-cleaning shops — Beauty and personal care
+Caller context: Customers ask about garment types, stains, turnaround, collection, delivery and opening hours.
+Potential receptionist workflow: Capture garment category, requested service, collection preference and callback details.
+Human handover: Staff inspect garments and confirm stain treatment, damage risk, final price and completion date.
+
+009. Tailors and alteration shops — Beauty and personal care
+Caller context: Callers ask about hemming, resizing, repairs, fittings, fabric work and deadlines.
+Potential receptionist workflow: Record garment type, alteration, required-by date and fitting preference.
+Human handover: The tailor confirms feasibility after inspection, measurements, price and completion date.
+
+010. Bridal boutiques — Beauty and personal care
+Caller context: Bridal customers ask about dress styles, fittings, accessories, group visits, alterations and delivery.
+Potential receptionist workflow: Capture event date, appointment preference, item category and party size.
+Human handover: Boutique staff verify stock, sizing, alteration scope, payment terms and delivery.
+
+011. Medical clinics — Healthcare administration
+Caller context: Calls concern location, departments, opening hours, appointment requests and front-desk contacts.
+Potential receptionist workflow: Collect service requested, preferred appointment window, caller name and callback details.
+Human handover: Do not diagnose, triage emergencies or recommend treatment. Clinical questions go to qualified staff.
+
+012. Dental practices — Healthcare administration
+Caller context: Callers ask about check-ups, cleaning, braces, tooth pain, family visits and clinic hours.
+Potential receptionist workflow: Capture routine visit or callback request, preferred time and service category.
+Human handover: Dental professionals handle symptoms, urgency, suitability, clinical advice and treatment plans.
+
+013. Physiotherapy clinics — Healthcare administration
+Caller context: Customers ask about services, session length, location, referrals and appointment times.
+Potential receptionist workflow: Record service category, preferred time and callback details without detailed medical history.
+Human handover: Physiotherapists assess symptoms, injuries, suitability and clinical urgency.
+
+014. Diagnostic laboratories — Healthcare administration
+Caller context: Customers call about test availability, opening times, sample collection, locations, reports and preparation.
+Potential receptionist workflow: Capture test name if volunteered, branch, collection question and callback request.
+Human handover: Laboratory staff confirm preparation, test requirements, results, interpretation and privacy.
+
+015. Optical shops and optometrists — Healthcare administration
+Caller context: People enquire about eye tests, frames, lenses, repairs, hours and appointments.
+Potential receptionist workflow: Collect service requested, branch, appointment preference and contact details.
+Human handover: Optometrists handle vision symptoms, prescriptions, medical eye concerns and lens suitability.
+
+016. Veterinary clinics — Healthcare administration
+Caller context: Pet owners call about consultations, vaccinations, clinic hours, location and appointment requests.
+Potential receptionist workflow: Record animal type, reason category in the owner's words, preferred time and callback.
+Human handover: Veterinarians handle diagnosis, emergencies, medicine and treatment advice.
+
+017. Pharmacies — Healthcare administration
+Caller context: Customers ask about branch location, hours, prescription collection, stock and delivery.
+Potential receptionist workflow: Capture general enquiry, branch and callback details; pass stock checks to pharmacy staff.
+Human handover: Pharmacists handle medicine suitability, interactions, dosage, substitutions and medical advice.
+
+018. Counselling and wellness centres — Healthcare administration
+Caller context: Callers ask about session formats, practitioner profiles, fees, confidentiality and appointments.
+Potential receptionist workflow: Collect contact preference, session type and scheduling request; offer discreet human callback.
+Human handover: Counsellors handle crisis situations, clinical suitability and confidential disclosures.
+
+019. Hospitals and specialist centres — Healthcare administration
+Caller context: Calls concern departments, visiting information, directions, appointment desks and administrative contacts.
+Potential receptionist workflow: Identify department or administrative purpose and route to published contact or staff team.
+Human handover: Emergency, patient-status, clinical and confidential-record requests go to authorised staff.
+
+020. Rehabilitation and occupational therapy centres — Healthcare administration
+Caller context: Families ask about programmes, session times, location, assessments and specialist contacts.
+Potential receptionist workflow: Capture programme category, preferred contact time and callback details using non-clinical language.
+Human handover: Therapists decide suitability, clinical plans, patient-specific advice and safeguarding matters.
+
+021. Hotels — Accommodation and travel
+Caller context: Guests compare room types, check-in times, facilities, location, booking requests and reception contacts.
+Potential receptionist workflow: Capture stay dates, guest count, room preference and contact; check live availability only when connected.
+Human handover: Hotel staff confirm rooms, rates, cancellation terms, special requests and final reservations.
+
+022. Guesthouses and bed-and-breakfasts — Accommodation and travel
+Caller context: Guests ask about room options, breakfast, parking, check-in, location and dates.
+Potential receptionist workflow: Collect arrival/departure dates, guest count, preferences and callback details.
+Human handover: Host confirms availability, property rules, payment, special arrangements and pricing.
+
+023. Safari lodges and camps — Accommodation and travel
+Caller context: Travellers ask about room/tent categories, season dates, activities, transfers and meals.
+Potential receptionist workflow: Record travel dates, party size, accommodation interest, transfer question and contact.
+Human handover: Lodge staff confirm rates, availability, park logistics, activities, safety and booking terms.
+
+024. Tour operators — Accommodation and travel
+Caller context: Travellers ask about itinerary length, destinations, group size, dates, inclusions and custom tours.
+Potential receptionist workflow: Capture destination, dates, group size, interests and callback details for a consultant.
+Human handover: Consultant confirms itinerary, permits, transport, suppliers, prices and safety guidance.
+
+025. Travel agencies — Accommodation and travel
+Caller context: Customers call about travel planning, ticket changes, holiday packages, documents and itineraries.
+Potential receptionist workflow: Collect destination, travel dates, service requested and callback details; route to consultant.
+Human handover: Agents confirm ticket rules, fares, visas, advisories, refunds and changes.
+
+026. Car-rental firms — Accommodation and travel
+Caller context: Customers ask about vehicle categories, rental dates, pick-up points, deposits, driver requirements and delivery.
+Potential receptionist workflow: Capture vehicle preference, dates, pick-up location, driver contact and callback.
+Human handover: Staff confirm vehicle availability, licence checks, deposits, insurance and rental agreement.
+
+027. Serviced apartments — Accommodation and travel
+Caller context: Guests enquire about length of stay, furnished units, amenities, bills, access and availability.
+Potential receptionist workflow: Record dates, guest count, area, unit preference and contact details.
+Human handover: Property team confirms units, rates, utilities, house rules and access.
+
+028. Short-stay and holiday homes — Accommodation and travel
+Caller context: Callers ask about dates, bedrooms, facilities, location, capacity, check-in and house rules.
+Potential receptionist workflow: Collect dates, party size, rooms and essential questions for host.
+Human handover: Host confirms calendar, prices, deposits, identity checks, rules and acceptance.
+
+029. Conference and retreat centres — Accommodation and travel
+Caller context: Organisers ask about meeting rooms, accommodation, catering, equipment, capacity and dates.
+Potential receptionist workflow: Capture event dates, participant estimate, room setup, catering and organiser contact.
+Human handover: Venue staff confirm capacity, schedule, packages, equipment and booking.
+
+030. Airline and airport service desks — Accommodation and travel
+Caller context: Passengers need official contact routes for baggage, check-in, service desks, lost property and flight information.
+Potential receptionist workflow: Identify topic and direct caller to official published channel or staffed service desk.
+Human handover: Flight status, security, immigration, passenger records and operations decisions belong to staff.
+
+031. Restaurants — Food and hospitality
+Caller context: Diners call during service about hours, menu items, location, table requests, takeaway and delivery.
+Potential receptionist workflow: Capture party size, preferred time, menu question and contact; use approved menu and connected ordering tools.
+Human handover: Staff confirm table availability, allergens, custom orders, stock, delivery timing and booking.
+
+032. Cafés and coffee shops — Food and hospitality
+Caller context: Customers ask about hours, coffee options, food availability, seating, directions, Wi-Fi and group visits.
+Potential receptionist workflow: Record question, branch, party size and callback; share approved menu and facilities information.
+Human handover: Staff confirm current stock, allergens, group seating and special arrangements.
+
+033. Bakeries and cake shops — Food and hospitality
+Caller context: Customers ask about cake flavours, sizes, custom designs, collection dates, delivery and changes.
+Potential receptionist workflow: Capture occasion, date, size, flavour, design description and contact details.
+Human handover: Bakery confirms production capacity, ingredients, allergens, quote, deposit and order.
+
+034. Caterers — Food and hospitality
+Caller context: Organisers ask about menus, guest numbers, event location, dietary needs, equipment and quotations.
+Potential receptionist workflow: Collect date, guest estimate, location, meal format and callback details.
+Human handover: Caterers confirm menu feasibility, food-safety needs, staffing, travel, quote and agreement.
+
+035. Food delivery kitchens — Food and hospitality
+Caller context: Customers call about menu availability, delivery zones, order status, collection and payment.
+Potential receptionist workflow: Capture order enquiry, delivery area, contact and order reference when supplied.
+Human handover: Staff verify availability, substitutions, delivery estimates, payment and refunds.
+
+036. Ice-cream and dessert shops — Food and hospitality
+Caller context: Callers ask about flavours, tubs, party packs, hours, delivery and event orders.
+Potential receptionist workflow: Record product interest, quantity, collection date and contact details.
+Human handover: Staff confirm current flavours, stock, allergens, pricing and bulk orders.
+
+037. Butcheries and meat shops — Food and hospitality
+Caller context: Customers ask about cuts, quantities, preparation, bulk orders, delivery and hours.
+Potential receptionist workflow: Capture cut or product, estimated quantity, collection preference and contact.
+Human handover: Staff confirm freshness, stock, weight, price and food-handling questions.
+
+038. Greengrocers and produce shops — Food and hospitality
+Caller context: Customers enquire about seasonal produce, bulk quantities, market days, delivery and availability.
+Potential receptionist workflow: Record produce category, quantity, location and callback for stock confirmation.
+Human handover: Staff confirm supply, quality, exact weight, price and delivery.
+
+039. Event venues and banquet halls — Food and hospitality
+Caller context: Event planners ask about dates, capacity, packages, catering, parking, equipment and viewing.
+Potential receptionist workflow: Capture event type, date, estimated guests, setup and organiser contact.
+Human handover: Venue staff confirm calendar, capacity, licences, price, deposit and contract.
+
+040. Mobile food vendors and food trucks — Food and hospitality
+Caller context: Customers ask where the vendor will be, menu details, event availability and private catering.
+Potential receptionist workflow: Collect event location, date, guest estimate and contact details.
+Human handover: Owner confirms live location, service area, menu, permits and event booking.
+
+041. Real estate agencies — Property and building services
+Caller context: Property enquiries concern sales or rentals, location, bedrooms, viewings, price questions and agent contact.
+Potential receptionist workflow: Capture listing reference, area, rental or purchase interest, preferred viewing time and callback.
+Human handover: Agent verifies listing, availability, ownership, terms, negotiations and viewing.
+
+042. Property managers — Property and building services
+Caller context: Tenants and owners call about maintenance, rent, access, service charges and inspections.
+Potential receptionist workflow: Record property/unit reference, issue category, urgency as described and contact.
+Human handover: Managers verify tenancy records, approve repairs, disputes, balances and contractor dispatch.
+
+043. Property developers — Property and building services
+Caller context: Buyers ask about project phases, unit types, show-house visits, payment plans and completion.
+Potential receptionist workflow: Capture project, unit category, buyer contact and viewing/callback preference.
+Human handover: Sales staff confirm status, inventory, contract, financing and completion dates.
+
+044. Building contractors — Property and building services
+Caller context: Customers seek quotations for renovations, repairs, new builds, availability and site visits.
+Potential receptionist workflow: Collect location, project category, scope summary and site-visit preference.
+Human handover: Contractor inspects and confirms technical feasibility, safety, materials, cost and timeline.
+
+045. Architects and design studios — Property and building services
+Caller context: Prospective clients ask about design services, portfolios, consultations, project stages and fees.
+Potential receptionist workflow: Record project type, location, stage and consultation request.
+Human handover: Architects confirm design advice, regulation, scope, fees and professional commitments.
+
+046. Interior designers — Property and building services
+Caller context: Clients ask about room redesign, furniture sourcing, style consultations, budgets and site visits.
+Potential receptionist workflow: Capture room/property type, style, timeline and contact details.
+Human handover: Designers confirm materials, measurements, sourcing, costs and scope.
+
+047. Plumbers — Property and building services
+Caller context: Callers report leaks, blocked drains, installations, repairs and site estimates.
+Potential receptionist workflow: Collect location, issue type, access details and callback; route urgent water problems quickly.
+Human handover: Plumber assesses safety, cause, parts, cost and arrival window.
+
+048. Electrical contractors — Property and building services
+Caller context: Customers request electrical repairs, wiring, installations, inspections and emergency contact.
+Potential receptionist workflow: Capture property location, issue in caller's words and callback; route urgent hazards to a person.
+Human handover: Qualified electricians assess hazards, isolate power, diagnose and determine safe next steps.
+
+049. Solar installers — Property and building services
+Caller context: Homeowners and businesses ask about solar systems, site surveys, product categories and installation.
+Potential receptionist workflow: Capture site type, location, intended use, broad energy requirements and consultation request.
+Human handover: Engineers confirm system design, load, roof suitability, compliance and quote.
+
+050. HVAC and refrigeration repair — Property and building services
+Caller context: Customers report air-conditioning, cold-room, fridge or ventilation issues and ask for a technician.
+Potential receptionist workflow: Record equipment type, location, symptoms and preferred service window.
+Human handover: Technicians assess refrigerant, electrical safety, parts, repairability and cost.
+
+051. Cleaning companies — Home and field services
+Caller context: Households and offices ask about one-off cleaning, regular schedules, deep cleaning, move-in work and coverage.
+Potential receptionist workflow: Collect property type, location, service category, approximate size and preferred date.
+Human handover: Supervisor confirms staff, supplies, access, quote, insurance and service time.
+
+052. Pest-control services — Home and field services
+Caller context: Callers ask about pest types, inspections, coverage, preparation and treatment schedules.
+Potential receptionist workflow: Capture property type, pest category, location and callback without offering treatment advice.
+Human handover: Qualified technicians advise on risks, chemicals, preparation, re-entry and safety.
+
+053. Security companies — Home and field services
+Caller context: Customers enquire about guards, alarms, patrols, CCTV, installation, coverage zones and quotations.
+Potential receptionist workflow: Record site type, location, requested service and safe callback method.
+Human handover: Security staff assess risk, quote services, discuss incidents and deployment.
+
+054. Moving and relocation companies — Home and field services
+Caller context: Customers ask about household/office moves, packing, vehicle sizes, dates, distance and storage.
+Potential receptionist workflow: Capture origin, destination, date, property type and major item categories.
+Human handover: Moving team confirms survey, capacity, packing, insurance, price and schedule.
+
+055. Courier firms — Home and field services
+Caller context: Customers need parcel pick-up, delivery coverage, tracking, proof of delivery and business collection.
+Potential receptionist workflow: Record tracking number if supplied, parcel enquiry, destination and callback details.
+Human handover: Staff verify parcel status, identity, restrictions, claims and delivery exceptions.
+
+056. Logistics and freight companies — Home and field services
+Caller context: Businesses ask about cargo movement, routes, warehousing, customs support, rates and shipment status.
+Potential receptionist workflow: Capture origin, destination, cargo type, load estimate and business contact.
+Human handover: Operations confirms rates, capacity, customs, insurance, transit and exceptions.
+
+057. Taxi and private transport operators — Home and field services
+Caller context: Passengers enquire about pick-up, destination, vehicle type, scheduled rides and corporate accounts.
+Potential receptionist workflow: Capture pickup, destination, passenger count, requested time and phone number.
+Human handover: Dispatch confirms vehicle, driver, fare, safety, wait time and ride acceptance.
+
+058. Driving schools — Home and field services
+Caller context: Learners ask about licence categories, lesson schedules, enrolment, instructors and fees.
+Potential receptionist workflow: Record licence category, learner contact, lesson time and branch.
+Human handover: School staff confirm course, instructor availability, exam requirements and fees.
+
+059. Appliance repair firms — Home and field services
+Caller context: Customers call about washing machines, cookers, fridges, televisions, warranties and technician visits.
+Potential receptionist workflow: Collect appliance type, brand, broad fault, area and callback details.
+Human handover: Technicians confirm diagnosis, parts, warranty, repair cost and availability.
+
+060. Home and office IT support — Home and field services
+Caller context: Customers need computer support, networking, software setup, printers, security help and onsite visits.
+Potential receptionist workflow: Capture device category, home/business context, issue summary and safe callback.
+Human handover: Technicians handle passwords, remote access, security incidents, sensitive files and diagnosis.
+
+061. Supermarkets — Retail and commerce
+Caller context: Shoppers ask about branches, hours, product categories, bulk orders, delivery and customer service.
+Potential receptionist workflow: Capture branch, product enquiry, order/receipt reference and callback; query inventory only if connected.
+Human handover: Store staff verify stock, substitutions, refunds, prices, promotions and payment disputes.
+
+062. Grocery shops and mini-marts — Retail and commerce
+Caller context: Customers ask if products are stocked, delivery options, store hours and how to place orders.
+Potential receptionist workflow: Record product list, quantity, delivery/collection preference and customer contact.
+Human handover: Shop confirms stock, weights, total price, substitutions and delivery estimate.
+
+063. Fashion boutiques — Retail and commerce
+Caller context: Shoppers enquire about sizes, colours, styles, location, delivery, exchanges and new arrivals.
+Potential receptionist workflow: Capture product category, size/colour, contact and preferred branch.
+Human handover: Staff verify availability, fit, final price, returns and delivery.
+
+064. Electronics shops — Retail and commerce
+Caller context: Customers ask about phones, laptops, appliances, specifications, warranties, stock and repairs.
+Potential receptionist workflow: Record product/model, question and preferred contact.
+Human handover: Sales staff confirm specifications, compatibility, price, warranty, stock and claims.
+
+065. Furniture stores — Retail and commerce
+Caller context: Buyers enquire about beds, sofas, office furniture, materials, dimensions, delivery and custom orders.
+Potential receptionist workflow: Capture item, dimensions/style, delivery location and callback.
+Human handover: Staff verify materials, stock, lead time, delivery costs and quote.
+
+066. Hardware and building-supply stores — Retail and commerce
+Caller context: Builders and homeowners ask about tools, fittings, materials, quantities, delivery and trade pricing.
+Potential receptionist workflow: Collect item categories, quantities, project area and contact for stock quote.
+Human handover: Staff confirm technical compatibility, inventory, bulk pricing and delivery.
+
+067. Mobile-phone shops and repair — Retail and commerce
+Caller context: Customers ask about phones, accessories, screen repairs, software issues, unlocks and turnaround.
+Potential receptionist workflow: Capture device make/model, service category, branch and contact.
+Human handover: Technicians handle device diagnosis, security, data access, warranty and estimates.
+
+068. Computer and electronics repair — Retail and commerce
+Caller context: Customers report laptop, desktop, printer and network issues and request repair assessment.
+Potential receptionist workflow: Record device type/model, broad symptoms and drop-off or callback preference.
+Human handover: Technicians handle data privacy, passwords, diagnosis, parts and repair costs.
+
+069. Printing and signage businesses — Retail and commerce
+Caller context: Customers ask about business cards, banners, branded merchandise, file formats, quantities and deadlines.
+Potential receptionist workflow: Capture item, dimensions, quantity, deadline and contact.
+Human handover: Production team confirms artwork, proof, colours, material, quote and completion.
+
+070. Wholesalers and distributors — Retail and commerce
+Caller context: Retailers ask about minimum orders, product lines, account opening, stock, delivery and invoices.
+Potential receptionist workflow: Capture business name, product category, quantity, delivery area and callback.
+Human handover: Sales verify price lists, credit terms, stock allocation, account status and dispatch.
+
+071. Manufacturers — Industry and agriculture
+Caller context: Buyers ask about specifications, minimum order quantities, lead times, samples, distribution and factory visits.
+Potential receptionist workflow: Collect product category, volume range, intended use, buyer organisation and contact.
+Human handover: Production and sales confirm specifications, capacity, compliance, price and delivery.
+
+072. Agricultural input suppliers — Industry and agriculture
+Caller context: Farmers ask about seeds, tools, fertiliser categories, stockists, hours and delivery.
+Potential receptionist workflow: Record crop/product category, location, quantity and callback without recommending chemicals.
+Human handover: Qualified staff confirm suitability, label instructions, handling, stock and price.
+
+073. Agrovets and animal-feed retailers — Industry and agriculture
+Caller context: Farmers ask about animal feed, farm supplies, delivery, branch location and availability.
+Potential receptionist workflow: Capture livestock type, product category, quantity and branch; pass product questions to staff.
+Human handover: Veterinary professionals handle animal health, medicine, dosage, suitability and safety.
+
+074. Farm produce aggregators — Industry and agriculture
+Caller context: Farmers and buyers ask about produce grades, collection points, volumes, market days and delivery.
+Potential receptionist workflow: Record commodity, volume estimate, location, collection date and callback.
+Human handover: Buyer confirms grading, buying price, quality, demand and collection.
+
+075. Dairy processors and milk collection centres — Industry and agriculture
+Caller context: Suppliers ask about collection times, locations, quality requirements, statements and payment queries.
+Potential receptionist workflow: Capture supplier identity, collection point and issue category; route quality/account questions.
+Human handover: Staff confirm test results, collection exceptions, price schedules and payment records.
+
+076. Fisheries and seafood suppliers — Industry and agriculture
+Caller context: Restaurants and households ask about species, quantities, delivery, cold-chain and supply days.
+Potential receptionist workflow: Record product category, order estimate, destination and contact.
+Human handover: Staff confirm catch/stock, freshness, handling, price and delivery.
+
+077. Feed mills and livestock suppliers — Industry and agriculture
+Caller context: Farmers ask about feed types, animal categories, bag sizes, distribution and bulk supply.
+Potential receptionist workflow: Capture animal type, product line, quantity, location and customer contact.
+Human handover: Qualified staff confirm specifications, suitability, stock and price.
+
+078. Irrigation and farm-equipment suppliers — Industry and agriculture
+Caller context: Customers enquire about pumps, pipes, irrigation sets, parts, installation and farm visits.
+Potential receptionist workflow: Record farm location, equipment category, crop context and consultation need.
+Human handover: Technicians confirm sizing, water/electrical requirements, feasibility, warranty and quote.
+
+079. Agricultural machinery dealers — Industry and agriculture
+Caller context: Farmers ask about tractors, implements, servicing, spare parts, financing and demonstrations.
+Potential receptionist workflow: Capture machine category/model, farm area and callback request.
+Human handover: Sales and service teams confirm features, stock, finance, parts and demonstration.
+
+080. Food processors and packaging businesses — Industry and agriculture
+Caller context: Business buyers ask about processing, packaging sizes, minimum runs, compliance and production windows.
+Potential receptionist workflow: Record product type, packaging requirement, volume estimate and buyer contact.
+Human handover: Operations verify food-safety compliance, specifications, capacity, rates and production slot.
+
+081. Primary and secondary schools — Education and learning
+Caller context: Parents ask about admissions, location, term dates, fee schedules, uniforms and office hours.
+Potential receptionist workflow: Capture learner year/class, parent contact and admissions topic.
+Human handover: School staff confirm fees, admissions decisions, safeguarding, learner records and policy.
+
+082. Colleges and TVET institutions — Education and learning
+Caller context: Prospective students enquire about courses, intakes, entry requirements, fees and campus location.
+Potential receptionist workflow: Record course interest, preferred intake, qualification level and callback contact.
+Human handover: Admissions confirm accreditation, eligibility, places, fees and official application steps.
+
+083. Universities — Education and learning
+Caller context: Applicants and students ask about faculties, admissions, programmes, campus services and offices.
+Potential receptionist workflow: Identify faculty/service desk, applicant category and callback details.
+Human handover: University staff handle admissions decisions, student records, results, finance and academic advice.
+
+084. Tutoring centres — Education and learning
+Caller context: Parents enquire about subjects, class levels, lesson formats, timetables, location and trial sessions.
+Potential receptionist workflow: Capture learner level, subject, format, schedule and parent contact.
+Human handover: Tutors confirm placement, progress, learning needs, availability and fees.
+
+085. Daycare and childcare centres — Education and learning
+Caller context: Parents ask about age groups, hours, meals, routines, enrolment, pick-up rules and visits.
+Potential receptionist workflow: Collect age band only if needed, parent contact, visit request and general questions.
+Human handover: Staff handle safeguarding, allergies, medical information, permissions and child records.
+
+086. Music schools — Education and learning
+Caller context: Learners ask about instruments, class levels, lesson times, instructors, practice facilities and fees.
+Potential receptionist workflow: Capture instrument interest, experience level and preferred lesson times.
+Human handover: Teachers confirm assessment, class, instrument availability, schedule and fee.
+
+087. Sports academies — Education and learning
+Caller context: Parents ask about age groups, sport programmes, trials, training locations, equipment and schedules.
+Potential receptionist workflow: Record sport, age category, session preference, parent contact and trial request.
+Human handover: Coaches confirm selection, physical suitability, safety, fixtures and enrolment.
+
+088. Professional training providers — Education and learning
+Caller context: Companies and individuals enquire about courses, workshops, certifications, dates and corporate training.
+Potential receptionist workflow: Capture topic, learner count, dates, delivery format and organisation contact.
+Human handover: Training staff confirm trainers, accreditation, outcomes, fees and availability.
+
+089. Examination and assessment centres — Education and learning
+Caller context: Applicants ask about assessment days, booking rules, documents, location and result collection.
+Potential receptionist workflow: Record examination category and direct the caller to official published instructions.
+Human handover: Authorised staff handle eligibility, official results, changes and regulatory questions.
+
+090. Libraries and learning centres — Education and learning
+Caller context: Visitors ask about hours, memberships, facilities, study rooms, book availability and events.
+Potential receptionist workflow: Capture enquiry, requested facility and preferred visit window.
+Human handover: Staff confirm memberships, reservations, overdue balances, access and collection.
+
+091. Law firms — Professional and financial services
+Caller context: Prospective clients ask about practice areas, consultations, office location, documents and appointment availability.
+Potential receptionist workflow: Capture general matter category, location, consultation preference and safe callback details; no detailed case facts.
+Human handover: A qualified lawyer handles legal advice, conflicts checks, confidential facts, fee quotes and deadlines.
+
+092. Accounting firms — Professional and financial services
+Caller context: Businesses ask about bookkeeping, accounts, payroll, tax returns, audits and consultations.
+Potential receptionist workflow: Record business type, service category, reporting period and owner contact.
+Human handover: Accountants confirm scope, records, advice, filing duties, deadlines and fees.
+
+093. Tax advisory firms — Professional and financial services
+Caller context: Clients ask about filing assistance, deadlines, records, consultations and status updates.
+Potential receptionist workflow: Capture individual/business enquiry type, service and callback details.
+Human handover: Tax professionals provide interpretations, liability estimates, filing decisions and regulatory advice.
+
+094. Insurance brokers — Professional and financial services
+Caller context: Callers ask about motor, medical, property and business insurance categories, renewals and claims.
+Potential receptionist workflow: Record policy category, renewal/claim enquiry and contact preference; avoid policy data without a secure workflow.
+Human handover: Licensed advisers explain cover, exclusions, suitability, claims decisions and policy terms.
+
+095. SACCOs and cooperatives — Professional and financial services
+Caller context: Members call about branch information, membership, loan categories, deposits, statements and meeting dates.
+Potential receptionist workflow: Identify service enquiry and callback request; route account-specific queries securely.
+Human handover: Staff verify identity and handle balances, account records, credit eligibility, rates and advice.
+
+096. Microfinance institutions — Professional and financial services
+Caller context: Customers ask about branches, application steps, product categories, repayments and support.
+Potential receptionist workflow: Capture enquiry type, location and callback without requesting PINs or credentials.
+Human handover: Authorised staff explain lending terms, eligibility, affordability, account details and complaints.
+
+097. Banks and financial institutions — Professional and financial services
+Caller context: Customers need official contact routes, branch details, hours, card support and appointments.
+Potential receptionist workflow: Route to published official channels; record callback only through an approved workflow.
+Human handover: Never request PINs, passwords, OTPs or full card details. Bank staff handle identity, balances, fraud and transactions.
+
+098. Management consultants — Professional and financial services
+Caller context: Business owners enquire about strategy workshops, operations reviews, scope, sectors and consultations.
+Potential receptionist workflow: Capture organisation, challenge category, meeting preference and contact details.
+Human handover: Consultants confirm methodology, deliverables, confidentiality, scope and fees.
+
+099. Marketing and advertising agencies — Professional and financial services
+Caller context: Prospects enquire about campaigns, web design, branding, social media, media budgets and timelines.
+Potential receptionist workflow: Record service, organisation, target date and preferred contact.
+Human handover: Agency confirms scope, platform access, creative direction, media budget and performance commitments.
+
+100. Recruitment agencies — Professional and financial services
+Caller context: Employers ask about hiring support, role types, candidate sourcing, timelines and fees.
+Potential receptionist workflow: Capture employer/candidate status, role category and safe callback details.
+Human handover: Recruiters handle CVs, privacy, hiring decisions, salary negotiation and contracts.
+
+OFFICIAL PAGES
+Home: https://twiga.co.ke/
+Industry directory: https://twiga.co.ke/pages/ai-receptionist-industries-kenya.html
+Pricing: https://twiga.co.ke/pages/pricing.html
+How it works: https://twiga.co.ke/pages/ai-receptionist-how-it-works-kenya.html
+Clinics: https://twiga.co.ke/pages/ai-receptionist-for-clinics-kenya.html
+Hotels: https://twiga.co.ke/pages/ai-receptionist-for-hotels-kenya.html
+Real estate: https://twiga.co.ke/pages/ai-receptionist-for-real-estate-kenya.html
+Restaurants: https://twiga.co.ke/pages/ai-receptionist-for-restaurants-kenya.html
+Salons: https://twiga.co.ke/pages/ai-receptionist-for-salons-kenya.html
+Small businesses: https://twiga.co.ke/pages/ai-receptionist-for-small-businesses-kenya.html
+Contact/demo: https://twiga.co.ke/pages/contact.html
+
+WRITING RULES
+Use clear Kenyan English. Distinguish platform capability from optional configuration. Do not invent customer counts, testimonials, integrations, provider status or guaranteed outcomes. Explain human handover and operational limits.
