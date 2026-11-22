@@ -57,8 +57,8 @@ border-color:#FF8A35!important;box-shadow:none!important;filter:none!important;t
 a.cta:focus-visible,a.btn:focus-visible,a.button:focus-visible,a.nav-cta:focus-visible,button[type="submit"]:focus-visible{
 outline:3px solid rgba(244,119,33,.35)!important;outline-offset:3px!important}
 </style>
-</head>
-<body>
+<link rel="icon" type="image/svg+xml" href="/favicon.svg?v=twiga-logo-1"><link rel="stylesheet" href="/styles/site-brand.css"></head>
+<body><div id="twiga-page-loader" role="status" aria-label="Loading TWIGA"><div class="twiga-loader-card"><img src="/images/twiga-logo.svg" alt=""><strong>TWIGA</strong><p>Preparing your next business conversation</p><span class="twiga-loader-spinner" aria-hidden="true"></span></div></div>
   <!-- Google Tag Manager (noscript) -->
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CZQ9MJH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
@@ -112,5 +112,5 @@ outline:3px solid rgba(244,119,33,.35)!important;outline-offset:3px!important}
   <script>
     (()=>{const search=document.getElementById('guide-search'),cards=[...document.querySelectorAll('.guide-card')],buttons=[...document.querySelectorAll('[data-filter]')],empty=document.getElementById('no-guides');let filter='all';function apply(){const q=search.value.trim().toLowerCase();let shown=0;cards.forEach(card=>{const matchCategory=filter==='all'||card.dataset.category===filter;const matchText=!q||card.textContent.toLowerCase().includes(q);card.hidden=!(matchCategory&&matchText);if(!card.hidden)shown++});empty.hidden=shown!==0}buttons.forEach(button=>button.addEventListener('click',()=>{filter=button.dataset.filter;buttons.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));apply()}));search.addEventListener('input',apply)})();
   </script>
-</body>
+<script src="/scripts/twiga-page-loader.js" defer></script></body>
 </html>
