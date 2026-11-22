@@ -5,6 +5,9 @@
 [data-framer-name="Logo"] [data-framer-name="Mark"] svg{display:none!important}
 #twiga-page-loader{position:fixed;inset:0;z-index:2147483000;display:grid;place-items:center;background:#fff;color:#171717;opacity:1;visibility:visible;transition:opacity .32s ease,visibility .32s ease}
 #twiga-page-loader.is-hidden{opacity:0;visibility:hidden;pointer-events:none}
+/* CSS failsafe: reveal the page even if the loader script cannot be fetched. */
+#twiga-page-loader{animation:twiga-loader-failsafe 3s 1 linear forwards}
+@keyframes twiga-loader-failsafe{0%,76%{opacity:1;visibility:visible}100%{opacity:0;visibility:hidden;pointer-events:none}}
 #twiga-page-loader .twiga-loader-card{display:flex;flex-direction:column;align-items:center;gap:12px;padding:24px;text-align:center}
 #twiga-page-loader img{display:block;width:92px;height:92px;object-fit:contain;border-radius:18px}
 #twiga-page-loader strong{font:800 21px/1.1 Inter,Arial,sans-serif;letter-spacing:.12em}
