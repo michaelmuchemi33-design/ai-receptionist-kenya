@@ -112,5 +112,5 @@ outline:3px solid rgba(244,119,33,.35)!important;outline-offset:3px!important}
   <script>
     (()=>{const search=document.getElementById('guide-search'),cards=[...document.querySelectorAll('.guide-card')],buttons=[...document.querySelectorAll('[data-filter]')],empty=document.getElementById('no-guides');let filter='all';function apply(){const q=search.value.trim().toLowerCase();let shown=0;cards.forEach(card=>{const matchCategory=filter==='all'||card.dataset.category===filter;const matchText=!q||card.textContent.toLowerCase().includes(q);card.hidden=!(matchCategory&&matchText);if(!card.hidden)shown++});empty.hidden=shown!==0}buttons.forEach(button=>button.addEventListener('click',()=>{filter=button.dataset.filter;buttons.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));apply()}));search.addEventListener('input',apply)})();
   </script>
-<script src="/scripts/twiga-page-loader.js" defer></script></body>
+<script src="/scripts/twiga-page-loader.js" defer></script><script src="/scripts/twiga-site-nav.js" defer></script></body>
 </html>
