@@ -4,7 +4,7 @@
 [data-framer-name="Logo"] [data-framer-name="Mark"]{width:42px!important;height:42px!important;min-width:42px!important;min-height:42px!important;background-color:#fff!important;background-image:url("/images/twiga-logo.svg")!important;background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important;border-radius:10px!important;overflow:hidden!important;box-shadow:0 2px 8px rgba(0,0,0,.16)!important}
 [data-framer-name="Logo"] [data-framer-name="Mark"] svg{display:none!important}
 #twiga-page-loader{position:fixed;inset:0;z-index:2147483000;display:grid;place-items:center;background:#fff;color:#171717;opacity:1;visibility:visible;transition:opacity .32s ease,visibility .32s ease}
-#twiga-page-loader.is-hidden{opacity:0;visibility:hidden;pointer-events:none}
+#twiga-page-loader.is-hidden{animation:none;opacity:0;visibility:hidden;pointer-events:none}
 /* CSS failsafe: reveal the page even if the loader script cannot be fetched. */
 #twiga-page-loader{animation:twiga-loader-failsafe 3s 1 linear forwards}
 @keyframes twiga-loader-failsafe{0%,76%{opacity:1;visibility:visible}100%{opacity:0;visibility:hidden;pointer-events:none}}
