@@ -1,6 +1,6 @@
 /* TWIGA visual identity — giraffe emblem supplied by the brand owner */
-.brand,.blog-logo,.learn-logo,.learn-article-brand,.article-logo{display:inline-flex;align-items:center;gap:10px;white-space:nowrap}
-.brand::before,.blog-logo::before,.learn-logo::before,.learn-article-brand::before,.article-logo::before{content:"";display:block;flex:0 0 42px;width:42px;height:42px;border-radius:10px;background:#fff url("/images/twiga-logo.svg") center/contain no-repeat;border:1px solid rgba(0,0,0,.08)}
+.brand,.blog-logo,.learn-logo,.learn-article-brand,.article-logo,.cost-logo{display:inline-flex;align-items:center;gap:10px;white-space:nowrap}
+.brand::before,.blog-logo::before,.learn-logo::before,.learn-article-brand::before,.article-logo::before,.cost-logo::before{content:"";display:block;flex:0 0 42px;width:42px;height:42px;border-radius:10px;background:#fff url("/images/twiga-logo.svg") center/contain no-repeat;border:1px solid rgba(0,0,0,.08)}
 [data-framer-name="Logo"] [data-framer-name="Mark"]{width:42px!important;height:42px!important;min-width:42px!important;min-height:42px!important;background-color:#fff!important;background-image:url("/images/twiga-logo.svg")!important;background-position:center!important;background-repeat:no-repeat!important;background-size:contain!important;border-radius:10px!important;overflow:hidden!important;box-shadow:0 2px 8px rgba(0,0,0,.16)!important}
 [data-framer-name="Logo"] [data-framer-name="Mark"] svg{display:none!important}
 #twiga-page-loader{position:fixed;inset:0;z-index:2147483000;display:grid;place-items:center;background:#fff;color:#171717;opacity:1;visibility:visible;transition:opacity .32s ease,visibility .32s ease}
