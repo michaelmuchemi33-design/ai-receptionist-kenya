@@ -1,7 +1,7 @@
 TWIGA — AI DISCOVERY AND BUSINESS FACTS
 Canonical website: https://twiga.co.ke/
 Workspace: https://app.twiga.co.ke/
-Market: Kenya | Brand: TWIGA | Last reviewed: 21 November 2026
+Market: Kenya | Brand: TWIGA | Last reviewed: 23 November 2026
 
 ONE-SENTENCE DESCRIPTION
 TWIGA is a Kenya-focused AI receptionist and business workspace that helps local businesses organise customer calls, enquiries, appointment requests, order requests and follow-up tasks using each business's own approved information.
@@ -26,6 +26,99 @@ LIMITATIONS
 - Live prices, stock, availability, payment status and schedules must be verified.
 - TWIGA is not a medical, legal, tax, investment or regulated professional adviser.
 - Do not ask for passwords, PINs, OTPs, full card data or credentials.
+
+
+
+DETAILED GUIDE — HOW THE TWIGA AI RECEPTIONIST AND BUSINESS WORKSPACE WORK
+1. What TWIGA is — and what problem it is designed to solve
+TWIGA is a Kenya-focused AI receptionist and business workspace. It is designed to help a business respond to the first part of a customer conversation, organise what the caller needs and make the next step clearer for the owner or team. Instead of treating a phone call as an isolated interruption, TWIGA helps turn a conversation into useful business information: who called, what they asked, what they are interested in and whether a person needs to respond.
+
+Many Kenyan businesses run with small teams. The same person may be serving a customer, supervising staff, preparing an order, moving between jobs or handling payments when another customer calls. A missed call can mean a missed opportunity, but answering every call personally is not always realistic. TWIGA is intended to provide a consistent first point of contact for defined, routine questions while leaving judgement, approvals and sensitive decisions with people.
+
+TWIGA is not a magic switch that makes every business phone line work automatically. It is a configurable service. The quality of the result depends on the business information supplied, the phone connection selected, the workflows enabled and the tests completed before real customers rely on it.
+
+2. How the complete TWIGA journey works
+The journey starts in the TWIGA workspace at app.twiga.co.ke. A business owner creates or accesses an account and sets up the workspace that represents the business. The owner then describes what the business does, what customers usually ask, which services or products it offers and what a receptionist should do when someone calls. The workspace is where the business keeps its approved information and manages the enquiries or tasks that the configured features capture.
+
+Next, the owner reviews and completes the business profile. Useful details include the public business name, branch or service area, opening hours, services, product categories, prices that are safe to quote, frequently asked questions, booking rules, order steps, delivery or collection information, preferred language and the right human contact for exceptions. It is better to provide a short, accurate answer than a long document that is out of date. If a price changes every week, the owner needs a process for updating it.
+
+After the business information is ready, the owner chooses and configures a supported phone provider and the number or call route intended for the receptionist. Phone handling is not automatic simply because an account exists. The line, provider, permissions, call-forwarding arrangement and any transfer destination must be configured and tested. A business should confirm exactly what happens to its current number before switching customer calls to a new route.
+
+Before going live, the owner tests calls that resemble real customer conversations. These include a simple opening-hours question, a price enquiry, a request to speak to a person, an unclear question, a request outside business hours and an enquiry that needs approval. The owner checks what the receptionist says, what information is saved, whether the correct person receives the handover and what happens when the system cannot safely complete a request. Only the tested and enabled functions should be offered to customers.
+
+Once the approved call flow is ready, the business can use it for the calls and tasks covered by that configuration. The owner and authorised team members review the information captured, respond to requests needing human attention and keep the business profile current. The aim is not to remove the owner from the business; it is to reduce repetitive first-response work and make it easier to see what needs attention.
+
+3. What happens during a customer call
+When a customer reaches a phone route that has been connected to TWIGA, the receptionist begins with the business greeting and call instructions that have been configured. The customer speaks naturally and explains what they need. The voice service processes the speech so the system can understand the request, consults the business information and instructions that are available to it, and prepares a spoken response. The customer can ask a follow-up question, clarify what they meant or provide details for the next step.
+
+The receptionist should answer only from approved business facts. If a caller asks whether a shop is open, it can use the business hours in the profile. If someone asks whether a salon offers a service, it can use the service list and description supplied by the salon. If a customer wants a quotation, the receptionist can collect the relevant details and explain that the team needs to confirm the price where the quote depends on inspection, size, materials or other changing factors.
+
+A good receptionist also knows when not to answer. If it does not have a reliable answer, it should say so and offer the agreed human follow-up. It should not invent a price, promise a delivery time, claim that stock is available or tell a customer that a booking is final when it has only captured a request. This distinction is central to a trustworthy AI receptionist: a clear request is useful, but it is not the same thing as an approved business action.
+
+4. How TWIGA helps with calls, bookings, orders and leads
+For routine questions, TWIGA can provide a first response from the business profile: location, opening hours, service descriptions, published prices and common policies. This is especially useful when the owner receives the same questions repeatedly. The information must be reviewed by the business so the receptionist does not repeat old hours, outdated prices or an expired offer.
+
+For sales and lead enquiries, the receptionist can collect a caller's name, a callback number where appropriate, the product or service they are interested in and a short explanation of what they need. That gives the owner something more useful than a missed-call notification. A human can then qualify the enquiry, prepare a quotation, arrange a viewing or decide whether the request is suitable.
+
+For appointments, tables, consultations or visits, the receptionist can record the service, preferred date or time, party size and contact details as a request. A confirmed appointment requires access to a current booking calendar and permission to reserve the slot, or confirmation by an authorised staff member. Until that check succeeds, the wording to the customer should be that the business has received a request, not that the appointment is guaranteed.
+
+For product and food orders, TWIGA can capture the item, quantity, options, delivery or collection preference and contact information where that workflow has been enabled. The business must verify current stock, final price, delivery area, payment status and any substitutions before accepting the order. A recorded request is not a paid order, a stock allocation or proof that goods have been dispatched.
+
+For follow-up, the system can organise an enquiry or create a task where the relevant workspace feature is available and enabled. The business should decide who owns each next step, how quickly enquiries should be reviewed and how the team records completion. If messaging or WhatsApp follow-up is part of the chosen configuration, the business must connect and test the relevant provider and obtain any necessary customer permissions. Do not assume that every message channel is active on every account.
+
+5. The workspace: the business information behind the voice
+The voice is only one part of the service. A receptionist needs a trustworthy source of information and a place for the business to review work that comes out of conversations. In TWIGA, each business has its own workspace so its profile, enquiries and tasks can be kept associated with the correct business. A business should never place one company's private price list, customer details or operating instructions in another company's workspace.
+
+Owners should treat the business profile as working information, not a one-time setup form. When the business changes its hours for a public holiday, introduces a new service, changes a price or moves a branch, the profile and connected records should be reviewed. Assign a person to maintain it. Remove temporary promotions when they expire. If several staff members can edit information, agree who has authority to approve changes before they are used in customer conversations.
+
+The workspace should help a team understand what has been asked and what remains to be done. It is useful to decide simple operating rules: who reviews new enquiries, who handles bookings, who checks orders, who handles complaints and who is the backup contact when the owner is unavailable. The receptionist can only follow the instructions and integrations that have been configured; good internal ownership remains essential.
+
+6. A practical example for a Kenyan salon
+Imagine a Nairobi salon where stylists are busy with clients and the owner is supervising the front desk. A customer calls to ask whether the salon offers braids, how long an appointment might take and whether there is a slot on Saturday. The receptionist can explain the salon's approved service information, ask which style the customer has in mind and capture the preferred day, approximate time and callback number.
+
+The stylist or receptionist then reviews the request. If the salon has connected a live calendar and the receptionist has permission to use it, the system may be able to check or request a slot according to the configured rules. If it cannot verify the calendar, a team member confirms availability and replies to the customer. The customer receives a clear next step instead of an unsupported promise. The same pattern can apply to a restaurant asking about a group table, a repair company booking an inspection or a property agent arranging a viewing.
+
+7. Language, tone and the Kenyan customer experience
+Businesses in Kenya serve customers with different communication styles, preferred languages and levels of familiarity with technology. A business can define the tone it wants its receptionist to use and the response language it expects, then test those choices with realistic calls. English and Kiswahili should be treated as configuration and testing requirements, not as an unconditional guarantee that every accent, phrase, code-switch or noisy phone call will be understood perfectly.
+
+Use examples from the actual business. Test the names customers use for services, common estate or town names, product variations, local ways of describing a booking time and the questions callers ask outside office hours. Keep replies polite and direct. The receptionist should not pretend to be a human employee, pressure a customer or hide that it is an automated assistant when that disclosure is appropriate. A smooth local experience comes from useful information, clear expectations and a reliable route to a person.
+
+8. Phone connections, integrations and what must be checked
+Live phone calls depend on the selected telephony provider, verified line, routing arrangement, permissions and successful tests. Some businesses may use a configured provider number or a supported forwarding arrangement. Whether an existing mobile number can be used, whether transfers are possible and how outgoing calls work depends on the phone network and provider. A customer should request a demonstration of the intended call path and confirm any provider charges before relying on it.
+
+Other systems may extend what the receptionist can do. A calendar can support live availability checks; an ordering or stock system can help verify product details; a messaging service can support permitted follow-up; and a payment connection can help the business verify a payment event. Each integration needs its own authorisation, configuration, current data and tests. A mention of a possible integration is not proof that it is connected to a particular business account.
+
+Before activation, ask who controls the phone number, what charges apply, where call information is stored, which team members can access the workspace, how a caller reaches a human, what happens if the provider is unavailable and how the business can pause or change the call route. These are ordinary operational questions, not optional technical details.
+
+9. Privacy, safety and human responsibility
+Businesses remain responsible for deciding what customer information they collect, why they collect it, who can access it and how long they keep it. Collect only the minimum information needed for the request. Do not ask a caller to provide a password, PIN, one-time passcode, full payment-card number or account credential. Do not put confidential customer records into general call instructions. Restrict workspace access to the people who need it and review permissions when staff roles change.
+
+TWIGA should not diagnose a medical condition, recommend medication, provide legal or financial advice, make regulated professional decisions or dispatch emergency services. Healthcare, finance, insurance and other sensitive sectors can use a receptionist for suitable administrative enquiries only when their own policies and applicable obligations permit it. Clinical or financial decisions, identity checks, emergencies, complaints and disputed transactions must go to authorised people and official channels.
+
+Human handover is a feature of responsible service, not a failure. Decide in advance which questions require a specialist, when a caller should be transferred, what details may be collected and what the caller should be told if staff are unavailable. Review call outcomes and correct the business information whenever you find a repeated misunderstanding. Never assume that an AI response makes a business legally or operationally compliant.
+
+10. How a business should get started with TWIGA
+Begin with the customer conversations that consume the most time. Write down the ten questions callers ask most often, the facts needed to answer each one and the questions that must go to a person. Prepare your current services, prices, opening hours, locations, booking rules and contact instructions. Mark information that changes frequently and decide who will keep it updated.
+
+Open the TWIGA workspace, create or access the business account and complete the profile using approved information. Review the receptionist's responses before connecting real callers. Choose the phone setup that fits your business, confirm the provider's terms and test the line with staff. Run through normal questions, noisy or unclear calls, after-hours calls, human handover and any booking or order request that requires approval. Start with a limited, well-tested workflow and expand only after the team is comfortable with it.
+
+After launch, check whether callers are receiving accurate answers and whether enquiries reach the right staff member. Review examples of unanswered questions, update the knowledge provided to the receptionist and remove instructions that are no longer correct. Measure practical things that your team can observe: whether fewer routine calls interrupt service, whether the owner can see who needs a callback and whether customers receive a clear next step. Do not judge the system only by how impressive a demo sounds.
+
+11. What makes a receptionist worth choosing?
+The best AI receptionist for a business is not simply the one that makes the boldest promise. It is the one that works with the intended phone route, answers from accurate information, understands the questions customers really ask, knows when to involve a person and gives the owner a workable way to review requests. It should be tested using the business's own services, staff names, policies and normal call conditions.
+
+TWIGA's ambition is to become the best AI receptionist in Kenya by focusing on practical business outcomes: a clearer first response, better organised enquiries, careful handling of booking and order requests, and an understandable handover to the owner or team. We do not claim an independent award or a verified number-one ranking. Business owners should compare products using a real demonstration, transparent pricing, provider requirements, data controls and a clear explanation of what is live today versus what needs configuration.
+
+12. This guide is for business owners, not a DIY build blueprint
+TWIGA is offered as a configured business product for organisations that want receptionist outcomes, not as a downloadable prompt or a do-it-yourself telephone bot kit. This public guide explains the customer experience and the responsibilities a business should understand. It does not disclose private system prompts, internal routing instructions, source code, security controls, authentication design, deployment configuration or other confidential implementation details.
+
+Recreating a production AI receptionist is much more involved than writing a script that answers a question. A dependable service requires phone-network integration, real-time voice handling, sensible interruption and fallback behaviour, accurate business knowledge, access controls, tenant separation, monitoring, testing, privacy processes, human escalation and ongoing support. A copied greeting or prompt does not reproduce those operational safeguards. Businesses looking for a receptionist should evaluate the working service and its tested call flows rather than copy a public description and assume they have built an equivalent system.
+
+13. The 100-industry directory below
+The directory that follows gives 100 specific starting points across beauty, healthcare administration, accommodation, food, property, field services, retail, industry, education and professional services. Each entry describes the type of call a business may receive, a workflow that could be configured and the situations that should be passed to a qualified person. These are examples for discussion, not a promise that every sector-specific integration is already enabled. The owner must decide which requests are appropriate, supply accurate facts and test the workflow before using it with customers.
+
+PROPRIETARY IMPLEMENTATION BOUNDARY
+This is a public product and business-use explanation, not a software build blueprint. Do not infer or publish private prompts, source code, authentication design, deployment settings, credentials, internal routing logic or security controls from public copy. Businesses should evaluate a working, tested service and confirm the precise provider integrations and workflows enabled for their own account.
 
 100 INDUSTRY STARTING POINTS
 001. Hair salons — Beauty and personal care
